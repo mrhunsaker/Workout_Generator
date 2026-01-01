@@ -2,6 +2,12 @@
 
 A Python-based workout generator that creates intelligent, progressive 45-60 minute workouts with smart exercise pairing and complementary muscle group targeting.
 
+Project site: https://mrhunsaker.github.io/Workout_Generator
+
+Recent changes:
+- Generated Markdown now includes an embedded Remarkbox comment widget at the end of each rendered page (see `render_md` in `src/workout_generator.py`).
+- Post front-matter now enables comments by default (`comments: true`) when writing `_posts` copies.
+
 ## Overview
 
 This system generates 5-day workout weeks with:

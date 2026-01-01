@@ -395,7 +395,7 @@ def render_md(week: List[Dict[str, Any]], generated_date: Optional[date] = None)
                 out.append(f"- {ex['name']} | {load_display} | {ex['reps']} {ex['reptype']}   ")
                 out.append(f"**Muscle Groups**:  {', '.join(ex['muscle_groups'])}   ")
                 out.append(f"**Equipment Needed**: {', '.join(ex['equipment'])}   ")
-            out.append("")
+                out.append("")
                 out.append("--- \n")        
                 out.append(f'<div style="page-break-after: always"></div>'"\n")
         
