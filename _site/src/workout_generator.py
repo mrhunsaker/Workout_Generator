@@ -395,12 +395,9 @@ def render_md(week: List[Dict[str, Any]], generated_date: Optional[date] = None)
                 out.append(f"- {ex['name']} | {load_display} | {ex['reps']} {ex['reptype']}   ")
                 out.append(f"**Muscle Groups**:  {', '.join(ex['muscle_groups'])}   ")
                 out.append(f"**Equipment Needed**: {', '.join(ex['equipment'])}   ")
-                out.append("")
-                out.append("--- \n")        
-                out.append(f'<div style="page-break-after: always"></div>'"\n")
-        
-        # Append Remarkbox comment widget to the end of rendered Markdown
-        remarkbox = """## Leave a Comment
+                out.append("")             
+    # Append Remarkbox comment widget to the end of rendered Markdown
+    remarkbox = """## Leave a Comment
 
 Note, I use [Remarkbox](https://www.remarkbox.com/) for comments to prevent Disqus from showing adds or other methods requiring a GitHub login for participation in any discussions. Although you are asked for you email, there is no need to verify it through remarkbox in order to leave a comment. Verification is just so you can track discussions, etc. without the system treating you as a new person every time.  
 
@@ -446,9 +443,9 @@ Note, I use [Remarkbox](https://www.remarkbox.com/) for comments to prevent Disq
         document.getElementById("remarkbox-iframe")
     );
 </script>"""
-        out.append(remarkbox)
+    out.append(remarkbox)
 
-        return "\n".join(out)
+    return "\n".join(out)
 
 
 def next_monday(from_dt: Optional[datetime] = None) -> date:
