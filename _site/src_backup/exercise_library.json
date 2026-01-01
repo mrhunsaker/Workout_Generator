@@ -1,0 +1,1508 @@
+[
+  {
+    "id": "bulgarian_split_squat",
+    "name": "Bulgarian Split Squat",
+    "body_regions": [
+      "lower"
+    ],
+    "muscle_groups": [
+      "quadriceps",
+      "gluteus_maximus",
+      "hamstrings",
+      "calves"
+    ],
+    "movement_pattern": "unilateral_squat",
+    "plane_of_motion": "sagittal",
+    "roles": [
+      "primary_lower"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "standing",
+    "equipment": [
+      "dumbbell",
+      "weight_bench",
+      "weight_bench"
+    ],
+    "exclusion": [
+      "lunge",
+      "step_up"
+    ],
+    "default_load": 10.0,
+    "units": "pounds",
+    "reptype": "reps/side",
+    "reps": 12
+  },
+  {
+    "id": "goblet_front_squat",
+    "name": "Front Squat (Goblet)",
+    "body_regions": [
+      "lower"
+    ],
+    "muscle_groups": [
+      "quadriceps",
+      "gluteus_maximus",
+      "adductors",
+      "hamstrings",
+      "core"
+    ],
+    "movement_pattern": "squat",
+    "plane_of_motion": "sagittal",
+    "roles": [
+      "primary_lower",
+      "integration"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "standing",
+    "equipment": [
+      "dumbbell"
+    ],
+    "exclusion": [
+      "jump_squat",
+      "box_squat",
+      "sumo_squat"
+    ],
+    "default_load": 10.0,
+    "units": "pounds",
+    "reptype": "reps",
+    "reps": 12
+  },
+  {
+    "id": "jump_squat",
+    "name": "Jump Squat",
+    "body_regions": [
+      "lower"
+    ],
+    "muscle_groups": [
+      "quadriceps",
+      "gluteus_maximus",
+      "calves",
+      "hamstrings",
+      "core"
+    ],
+    "movement_pattern": "explosive_squat",
+    "plane_of_motion": "sagittal",
+    "roles": [
+      "primary_lower"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "standing",
+    "equipment": ["none"],
+    "exclusion": [
+      "goblet_front_squat",
+      "box_squat",
+      "sumo_squat"
+    ],
+    "default_load": 0.0,
+    "units": "bodyweight",
+    "reptype": "reps",
+    "reps": 12
+  },
+  {
+    "id": "sumo_squat",
+    "name": "Sumo Squat",
+    "body_regions": [
+      "lower"
+    ],
+    "muscle_groups": [
+      "adductors",
+      "gluteus_maximus",
+      "hamstrings",
+      "quadriceps"
+    ],
+    "movement_pattern": "squat",
+    "plane_of_motion": "sagittal",
+    "roles": [
+      "primary_lower"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "standing",
+    "equipment": [
+      "dumbbell"
+    ],
+    "exclusion": [
+      "goblet_front_squat",
+      "jump_squat",
+      "box_squat"
+    ],
+    "default_load": 10.0,
+    "units": "pounds",
+    "reptype": "reps",
+    "reps": 12
+  },
+  {
+    "id": "calf_raises",
+    "name": "Calf Raises",
+    "body_regions": [
+      "lower"
+    ],
+    "muscle_groups": [
+      "gastrocnemius",
+      "soleus"
+    ],
+    "movement_pattern": "plantar_flexion",
+    "plane_of_motion": "sagittal",
+    "roles": [
+      "integration"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "standing",
+    "equipment": [
+      "dumbbell",
+      "resistance_bands"
+    ],
+    "exclusion": [
+      "calf_raises_single"
+    ],
+    "default_load": 0.0,
+    "units": "bodyweight",
+    "reptype": "reps",
+    "reps": 100
+  },
+  {
+    "id": "calf_raises_single",
+    "name": "Single Leg Calf Raises",
+    "body_regions": [
+      "lower"
+    ],
+    "muscle_groups": [
+      "gastrocnemius",
+      "soleus"
+    ],
+    "movement_pattern": "plantar_flexion",
+    "plane_of_motion": "sagittal",
+    "roles": [
+      "integration"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "standing",
+    "equipment": ["none"],
+    "exclusion": [
+      "calf_raises"
+    ],
+    "default_load": 0.0,
+    "units": "bodyweight",
+    "reptype": "reps/side",
+    "reps": 50
+  },
+  {
+    "id": "curtsy_squat",
+    "name": "Curtsy Squat",
+    "body_regions": [
+      "lower",
+      "core"
+    ],
+    "muscle_groups": [
+      "gluteus_medius",
+      "quadriceps"
+    ],
+    "movement_pattern": "multi_planar_squat",
+    "plane_of_motion": "transverse",
+    "roles": [
+      "primary_lower"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "standing",
+    "equipment": [
+      "dumbbell"
+    ],
+    "exclusion": ["none"],
+    "default_load": 10.0,
+    "units": "pounds",
+    "reptype": "reps/side",
+    "reps": 12
+  },
+  {
+    "id": "side_lunge",
+    "name": "Side Lunge",
+    "body_regions": [
+      "lower",
+      "core"
+    ],
+    "muscle_groups": [
+      "adductors",
+      "gluteus_maximus"
+    ],
+    "movement_pattern": "lateral_lunge",
+    "plane_of_motion": "frontal",
+    "roles": [
+      "primary_lower"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "standing",
+    "equipment": [
+      "dumbbell"
+    ],
+    "exclusion": ["none"],
+    "default_load": 10.0,
+    "units": "pounds",
+    "reptype": "reps/side",
+    "reps": 12
+  },
+  {
+    "id": "forward_lunge",
+    "name": "Forward Lunge",
+    "body_regions": [
+      "lower"
+    ],
+    "muscle_groups": [
+      "quadriceps",
+      "gluteus_maximus"
+    ],
+    "movement_pattern": "split_squat",
+    "plane_of_motion": "sagittal",
+    "roles": [
+      "primary_lower"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "standing",
+    "equipment": [
+      "dumbbell"
+    ],
+    "exclusion": [
+      "bulgarian_split_squat",
+      "step_up"
+    ],
+    "default_load": 10.0,
+    "units": "pounds",
+    "reptype": "reps/side",
+    "reps": 12
+  },
+  {
+    "id": "reverse_lunge",
+    "name": "Reverse Lunge",
+    "body_regions": [
+      "lower"
+    ],
+    "muscle_groups": [
+      "quadriceps",
+      "gluteus_maximus"
+    ],
+    "movement_pattern": "split_squat",
+    "plane_of_motion": "sagittal",
+    "roles": [
+      "primary_lower"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "standing",
+    "equipment": [
+      "dumbbell"
+    ],
+    "exclusion": [
+      "bulgarian_split_squat",
+      "step_up",
+      "forward_lunge"
+    ],
+    "default_load": 10.0,
+    "units": "pounds",
+    "reptype": "reps/side",
+    "reps": 12
+  },
+  {
+    "id": "step_up",
+    "name": "Step-Up",
+    "body_regions": [
+      "lower"
+    ],
+    "muscle_groups": [
+      "gluteus_maximus",
+      "quadriceps"
+    ],
+    "movement_pattern": "unilateral_extension",
+    "plane_of_motion": "sagittal",
+    "roles": [
+      "primary_lower"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "standing",
+    "equipment": [
+      "plyo_box",
+      "dumbbell"
+    ],
+    "exclusion": [
+      "bulgarian_split_squat",
+      "lunge"
+    ],
+    "default_load": 0.0,
+    "units": "pounds",
+    "reptype": "reps/side",
+    "reps": 12
+  },
+  {
+    "id": "box_squat",
+    "name": "Box Squat",
+    "body_regions": [
+      "lower"
+    ],
+    "muscle_groups": [
+      "quadriceps",
+      "gluteus_maximus"
+    ],
+    "movement_pattern": "squat",
+    "plane_of_motion": "sagittal",
+    "roles": [
+      "primary_lower"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "standing",
+    "equipment": [
+      "plyo_box",
+      "dumbbell"
+    ],
+    "exclusion": [
+      "goblet_front_squat",
+      "jump_squat",
+      "sumo_squat"
+    ],
+    "default_load": 10.0,
+    "units": "pounds",
+    "reptype": "reps",
+    "reps": 12
+  },
+  {
+    "id": "copenhagen_plank",
+    "name": "Copenhagen Plank",
+    "body_regions": [
+      "core"
+    ],
+    "muscle_groups": [
+      "adductors",
+      "obliques"
+    ],
+    "movement_pattern": "isometric",
+    "plane_of_motion": "frontal",
+    "roles": [
+      "integration"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "ground",
+    "equipment": [
+      "weight_bench"
+    ],
+    "exclusion": ["none"],
+    "default_load": 0.0,
+    "units": "bodyweight",
+    "reptype": "reps/side",
+    "reps": 12
+  },
+  {
+    "id": "shoulder_rotation",
+    "name": "Floor Internal / External Rotation",
+    "body_regions": [
+      "shoulder_pt",
+      "upper"
+    ],
+    "muscle_groups": [
+      "rotator_cuff"
+    ],
+    "movement_pattern": "rotation",
+    "plane_of_motion": "transverse",
+    "roles": [
+      "accessory"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "ground",
+    "equipment": [
+      "dumbbell"
+    ],
+    "exclusion": ["none"],
+    "default_load": 5.0,
+    "units": "pounds",
+    "reptype": "reps/side",
+    "reps": 40
+  },
+  {
+    "id": "rear_delt_fly",
+    "name": "Rear Delt Fly",
+    "body_regions": [
+      "shoulder",
+      "upper"
+    ],
+    "muscle_groups": [
+      "posterior_deltoid"
+    ],
+    "movement_pattern": "horizontal_abduction",
+    "plane_of_motion": "transverse",
+    "roles": [
+      "accessory"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "standing",
+    "equipment": [
+      "dumbbell"
+    ],
+    "exclusion": ["none"],
+    "default_load": 10.0,
+    "units": "pounds",
+    "reptype": "reps/side",
+    "reps": 12
+  },
+  {
+    "id": "scapula_setting",
+    "name": "Scapula Setting / Flossing",
+    "body_regions": [
+      "shoulder_pt",
+      "upper"
+    ],
+    "muscle_groups": [
+      "scapular_stabilizers"
+    ],
+    "movement_pattern": "scapular_control",
+    "plane_of_motion": "multi",
+    "roles": [
+      "accessory"
+    ],
+    "ladder_eligible": false,
+    "ground_or_standing": "standing",
+    "equipment": ["none"],
+    "exclusion": ["none"],
+    "default_load": 0.0,
+    "units": "pounds",
+    "reptype": "reps/side",
+    "reps": 12
+  },
+  {
+    "id": "shrugs",
+    "name": "Shrugs",
+    "body_regions": [
+      "shoulder_pt",
+      "upper"
+    ],
+    "muscle_groups": [
+      "upper_trapezius"
+    ],
+    "movement_pattern": "elevation",
+    "plane_of_motion": "frontal",
+    "roles": [
+      "accessory"
+    ],
+    "ladder_eligible": false,
+    "ground_or_standing": "standing",
+    "equipment": [
+      "dumbbell"
+    ],
+    "exclusion": ["none"],
+    "default_load": 10.0,
+    "units": "pounds",
+    "reptype": "reps",
+    "reps": 12
+  },
+  {
+    "id": "arm_pt",
+    "name": "Arm PT",
+    "body_regions": [
+      "arm_pt",
+      "upper"
+    ],
+    "muscle_groups": [
+      "biceps_brachii",
+      "triceps_brachii"
+    ],
+    "movement_pattern": "isolation",
+    "plane_of_motion": "sagittal",
+    "roles": [
+      "accessory"
+    ],
+    "ladder_eligible": false,
+    "ground_or_standing": "standing",
+    "equipment": [
+      "dumbbell"
+    ],
+    "exclusion": ["none"],
+    "default_load": 3.25,
+    "units": "pounds",
+    "reptype": "reps",
+    "reps": 12
+  },
+  {
+    "id": "frontline_pow_raise",
+    "name": "Frontline POW Raise",
+    "body_regions": [
+      "upper"
+    ],
+    "muscle_groups": [
+      "anterior_deltoid",
+      "upper_chest"
+    ],
+    "movement_pattern": "shoulder_flexion",
+    "plane_of_motion": "sagittal",
+    "roles": [
+      "primary_upper",
+      "integration"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "ground",
+    "equipment": [
+      "dumbbell"
+    ],
+    "exclusion": ["none"],
+    "default_load": 10.0,
+    "units": "pounds",
+    "reptype": "reps/side",
+    "reps": 12
+  },
+  {
+    "id": "hammer_curls",
+    "name": "Hammer Curls",
+    "body_regions": [
+      "arms",
+      "upper"
+    ],
+    "muscle_groups": [
+      "brachialis",
+      "biceps_brachii",
+      "forearms"
+    ],
+    "movement_pattern": "elbow_flexion",
+    "plane_of_motion": "sagittal",
+    "roles": [
+      "accessory"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "standing",
+    "equipment": [
+      "dumbbell"
+    ],
+    "exclusion": ["none"],
+    "default_load": 10.0,
+    "units": "pounds",
+    "reptype": "reps/side",
+    "reps": 12
+  },
+  {
+    "id": "lateral_raises",
+    "name": "Lateral Raises",
+    "body_regions": [
+      "upper"
+    ],
+    "muscle_groups": [
+      "medial_deltoid"
+    ],
+    "movement_pattern": "shoulder_abduction",
+    "plane_of_motion": "frontal",
+    "roles": [
+      "accessory"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "standing",
+    "equipment": [
+      "dumbbell"
+    ],
+    "exclusion": ["none"],
+    "default_load": 10.0,
+    "units": "pounds",
+    "reptype": "reps/side",
+    "reps": 12
+  },
+  {
+    "id": "push_up",
+    "name": "Push Up",
+    "body_regions": [
+      "upper",
+      "core"
+    ],
+    "muscle_groups": [
+      "pectoralis_major",
+      "triceps",
+      "anterior_deltoid"
+    ],
+    "movement_pattern": "horizontal_push",
+    "plane_of_motion": "sagittal",
+    "roles": [
+      "primary_upper"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "ground",
+    "equipment": ["none"],
+    "exclusion": ["none"],
+    "default_load": 0.0,
+    "units": "bodyweight",
+    "reptype": "reps",
+    "reps": 12
+  },
+  {
+    "id": "clam_walk_strap",
+    "name": "Clam Walk With Strap",
+    "body_regions": [
+      "lower",
+      "core"
+    ],
+    "muscle_groups": [
+      "gluteus_medius",
+      "gluteus_minimus"
+    ],
+    "movement_pattern": "hip_abduction",
+    "plane_of_motion": "frontal",
+    "roles": [
+      "integration"
+    ],
+    "ladder_eligible": false,
+    "ground_or_standing": "standing",
+    "equipment": [
+      "resistance_band"
+    ],
+    "exclusion": ["none"],
+    "default_load": 0.0,
+    "units": "pounds",
+    "reptype": "seconds",
+    "reps": 30
+  },
+  {
+    "id": "march_in_place_strap",
+    "name": "March in Place With Strap",
+    "body_regions": [
+      "core"
+    ],
+    "muscle_groups": [
+      "hip_flexors",
+      "obliques"
+    ],
+    "movement_pattern": "anti_rotation",
+    "plane_of_motion": "sagittal",
+    "roles": [
+      "integration"
+    ],
+    "ladder_eligible": false,
+    "ground_or_standing": "standing",
+    "equipment": [
+      "resistance_band"
+    ],
+    "exclusion": ["none"],
+    "default_load": 0.0,
+    "units": "bodyweight",
+    "reptype": "seconds",
+    "reps": 30
+  },
+  {
+    "id": "plank_yoga_ball",
+    "name": "Plank on Yoga Ball",
+    "body_regions": [
+      "core"
+    ],
+    "muscle_groups": [
+      "rectus_abdominis",
+      "transverse_abdominis",
+      "shoulder_stabilizers"
+    ],
+    "movement_pattern": "anti_extension",
+    "plane_of_motion": "sagittal",
+    "roles": [
+      "integration"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "ground",
+    "equipment": [
+      "yoga_ball"
+    ],
+    "exclusion": ["none"],
+    "default_load": 0.0,
+    "units": "bodyweight",
+    "reptype": "seconds",
+    "reps": 30.0
+  },
+  {
+    "id": "hamstring_slider_curl",
+    "name": "Hamstring Curl (Slider)",
+    "body_regions": [
+      "lower",
+      "core"
+    ],
+    "muscle_groups": [
+      "hamstrings",
+      "gluteus_maximus"
+    ],
+    "movement_pattern": "knee_flexion",
+    "plane_of_motion": "sagittal",
+    "roles": [
+      "posterior_chain",
+      "primary_lower"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "ground",
+    "equipment": [
+      "slider"
+    ],
+    "exclusion": [
+      "hamstring_slider_curl_Single_Leg",
+      "hamstring_yoga_ball_curl"
+    ],
+    "default_load": 0.0,
+    "units": "bodyweight",
+    "reptype": "reps",
+    "reps": 12
+  },
+  {
+    "id": "hamstring_slider_curl_Single_Leg",
+    "name": "Single Leg Hamstring Curl (Slider)",
+    "body_regions": [
+      "lower",
+      "core"
+    ],
+    "muscle_groups": [
+      "hamstrings",
+      "gluteus_maximus"
+    ],
+    "movement_pattern": "knee_flexion",
+    "plane_of_motion": "sagittal",
+    "roles": [
+      "posterior_chain",
+      "primary_lower"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "ground",
+    "equipment": [
+      "slider"
+    ],
+    "exclusion": [
+      "hamstring_slider_curl",
+      "hamstring_yoga_ball_curl"
+    ],
+    "default_load": 0.0,
+    "units": "bodyweight",
+    "reptype": "reps/side",
+    "reps": 12
+  },
+  {
+    "id": "hamstring_yoga_ball_curl",
+    "name": "Hamstring Curl (Yoga Ball)",
+    "body_regions": [
+      "lower",
+      "core"
+    ],
+    "muscle_groups": [
+      "hamstrings",
+      "gluteus_maximus"
+    ],
+    "movement_pattern": "knee_flexion",
+    "plane_of_motion": "sagittal",
+    "roles": [
+      "posterior_chain",
+      "primary_lower"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "ground",
+    "equipment": [
+      "yoga_ball"
+    ],
+    "exclusion": [
+      "hamstring_slider_curl",
+      "hamstring_slider_curl_Single_Leg"
+    ],
+    "default_load": 0.0,
+    "units": "bodyweight",
+    "reptype": "reps",
+    "reps": 12
+  },
+  {
+    "id": "bridge_toe_taps",
+    "name": "Bridge Toe Taps",
+    "body_regions": [
+      "lower"
+    ],
+    "muscle_groups": [
+      "gluteus_maximus",
+      "hamstrings"
+    ],
+    "movement_pattern": "hip_extension",
+    "plane_of_motion": "sagittal",
+    "roles": [
+      "posterior_chain"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "ground",
+    "equipment": ["none"],
+    "exclusion": ["none"],
+    "default_load": 0.0,
+    "units": "bodyweight",
+    "reptype": "seconds",
+    "reps": 30
+  },
+  {
+    "id": "standing_row",
+    "name": "Standing Row",
+    "body_regions": [
+      "upper"
+    ],
+    "muscle_groups": [
+      "latissimus_dorsi",
+      "rhomboids",
+      "biceps"
+    ],
+    "movement_pattern": "horizontal_pull",
+    "plane_of_motion": "sagittal",
+    "roles": [
+      "primary_upper"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "standing",
+    "equipment": [
+      "dumbbell"
+    ],
+    "exclusion": [
+      "elbow_out_row"
+    ],
+    "default_load": 10.0,
+    "units": "pounds",
+    "reptype": "reps",
+    "reps": 12
+  },
+  {
+    "id": "weighted_side_bend",
+    "name": "Weighted Side Bend",
+    "body_regions": [
+      "core"
+    ],
+    "muscle_groups": [
+      "obliques",
+      "quadratus_lumborum"
+    ],
+    "movement_pattern": "lateral_flexion",
+    "plane_of_motion": "frontal",
+    "roles": [
+      "accessory"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "standing",
+    "equipment": [
+      "dumbbell"
+    ],
+    "exclusion": ["none"],
+    "default_load": 10.0,
+    "units": "pounds",
+    "reptype": "reps/side",
+    "reps": 30
+  },
+  {
+    "id": "elbow_out_row",
+    "name": "Elbow Out Row",
+    "body_regions": [
+      "upper"
+    ],
+    "muscle_groups": [
+      "posterior_deltoid",
+      "rhomboids",
+      "upper_trapezius"
+    ],
+    "movement_pattern": "horizontal_pull",
+    "plane_of_motion": "sagittal",
+    "roles": [
+      "primary_upper"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "standing",
+    "equipment": [
+      "dumbbell"
+    ],
+    "exclusion": [
+      "standing_row"
+    ],
+    "default_load": 10.0,
+    "units": "pounds",
+    "reptype": "reps/side",
+    "reps": 12
+  },
+  {
+    "id": "yoga_ball_plank_back_forth",
+    "name": "Yoga Ball Plank Back and Forth",
+    "body_regions": [
+      "core"
+    ],
+    "muscle_groups": [
+      "rectus_abdominis",
+      "transverse_abdominis",
+      "shoulder_stabilizers"
+    ],
+    "movement_pattern": "anti_extension",
+    "plane_of_motion": "sagittal",
+    "roles": [
+      "integration"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "ground",
+    "equipment": [
+      "yoga_ball"
+    ],
+    "exclusion": [
+      "plank_yoga_ball",
+      "yoga_ball_plank_circles"
+    ],
+    "default_load": 0.0,
+    "units": "bodyweight",
+    "reptype": "seconds",
+    "reps": 30.0
+  },
+  {
+    "id": "yoga_ball_plank_circles",
+    "name": "Yoga Ball Plank Circles",
+    "body_regions": [
+      "core"
+    ],
+    "muscle_groups": [
+      "rectus_abdominis",
+      "transverse_abdominis",
+      "obliques",
+      "shoulder_stabilizers"
+    ],
+    "movement_pattern": "anti_rotation",
+    "plane_of_motion": "multi",
+    "roles": [
+      "integration"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "ground",
+    "equipment": [
+      "yoga_ball"
+    ],
+    "exclusion": [
+      "plank_yoga_ball",
+      "yoga_ball_plank_back_forth"
+    ],
+    "default_load": 0.0,
+    "units": "bodyweight",
+    "reptype": "seconds",
+    "reps": 30.0
+  },
+  {
+    "id": "single_leg_3_cone_touch",
+    "name": "Single Leg 3 Cone Touch",
+    "body_regions": [
+      "lower"
+    ],
+    "muscle_groups": [
+      "gluteus_medius",
+      "ankle_stabilizers"
+    ],
+    "movement_pattern": "unilateral_balance",
+    "plane_of_motion": "multi",
+    "roles": [
+      "integration"
+    ],
+    "ladder_eligible": false,
+    "ground_or_standing": "standing",
+    "equipment": [
+      "cones"
+    ],
+    "exclusion": ["none"],
+    "default_load": 0.0,
+    "units": "bodyweight",
+    "reptype": "reps/side",
+    "reps": 12
+  },
+  {
+    "id": "russian_twist",
+    "name": "Russian Twist",
+    "body_regions": [
+      "core"
+    ],
+    "muscle_groups": [
+      "obliques",
+      "rectus_abdominis"
+    ],
+    "movement_pattern": "rotation",
+    "plane_of_motion": "transverse",
+    "roles": [
+      "accessory"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "ground",
+    "equipment": [
+      "dumbbell",
+      "medicine_ball"
+    ],
+    "exclusion": ["none"],
+    "default_load": 10.0,
+    "units": "pounds",
+    "reptype": "reps",
+    "reps": 12
+  },
+  {
+    "id": "turkish_get_up",
+    "name": "Turkish Get-Up",
+    "body_regions": [
+      "upper",
+      "lower",
+      "core"
+    ],
+    "muscle_groups": [
+      "shoulder_stabilizers",
+      "glutes",
+      "core_stabilizers"
+    ],
+    "movement_pattern": "multi_planar",
+    "plane_of_motion": "multi",
+    "roles": [
+      "integration"
+    ],
+    "ladder_eligible": false,
+    "ground_or_standing": "ground",
+    "equipment": [
+      "dumbbell"
+    ],
+    "exclusion": ["none"],
+    "default_load": 10.0,
+    "units": "pounds",
+    "reptype": "reps/side",
+    "reps": 6
+  },
+  {
+    "id": "arnold_press",
+    "name": "Arnold Press",
+    "body_regions": [
+      "shoulder",
+      "upper"
+    ],
+    "muscle_groups": [
+      "anterior_deltoid",
+      "medial_deltoid",
+      "triceps"
+    ],
+    "movement_pattern": "vertical_push",
+    "plane_of_motion": "multi",
+    "roles": [
+      "accessory"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "standing",
+    "equipment": [
+      "dumbbell"
+    ],
+    "exclusion": [
+      "dumbbell_press"
+    ],
+    "default_load": 10.0,
+    "units": "pounds",
+    "reptype": "reps/side",
+    "reps": 12
+  },
+  {
+    "id": "hip_thruster",
+    "name": "Hip Thruster",
+    "body_regions": [
+      "lower"
+    ],
+    "muscle_groups": [
+      "gluteus_maximus",
+      "hamstrings"
+    ],
+    "movement_pattern": "hip_extension",
+    "plane_of_motion": "sagittal",
+    "roles": [
+      "primary_lower",
+      "posterior_chain"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "ground",
+    "equipment": [
+      "dumbbell",
+      "weight_bench"
+    ],
+    "exclusion": [
+      "bridge_toe_taps"
+    ],
+    "default_load": 10.0,
+    "units": "pounds",
+    "reptype": "reps",
+    "reps": 12
+  },
+  {
+    "id": "split_squat",
+    "name": "Split Squat",
+    "body_regions": [
+      "lower"
+    ],
+    "muscle_groups": [
+      "quadriceps",
+      "gluteus_maximus"
+    ],
+    "movement_pattern": "split_squat",
+    "plane_of_motion": "sagittal",
+    "roles": [
+      "primary_lower"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "standing",
+    "equipment": [
+      "dumbbell"
+    ],
+    "exclusion": [
+      "bulgarian_split_squat",
+      "lunge"
+    ],
+    "default_load": 10.0,
+    "units": "pounds",
+    "reptype": "reps/side",
+    "reps": 12
+  },
+  {
+    "id": "romanian_deadlift",
+    "name": "Romanian Deadlift",
+    "body_regions": [
+      "lower"
+    ],
+    "muscle_groups": [
+      "hamstrings",
+      "gluteus_maximus",
+      "erector_spinae"
+    ],
+    "movement_pattern": "hip_hinge",
+    "plane_of_motion": "sagittal",
+    "roles": [
+      "primary_lower",
+      "posterior_chain"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "standing",
+    "equipment": [
+      "dumbbell"
+    ],
+    "exclusion": ["none"],
+    "default_load": 10.0,
+    "units": "pounds",
+    "reptype": "reps/side",
+    "reps": 12
+  },
+  {
+    "id": "heel_walk",
+    "name": "Heel Walk",
+    "body_regions": [
+      "lower"
+    ],
+    "muscle_groups": [
+      "tibialis_anterior"
+    ],
+    "movement_pattern": "dorsiflexion",
+    "plane_of_motion": "sagittal",
+    "roles": [
+      "integration"
+    ],
+    "ladder_eligible": false,
+    "ground_or_standing": "standing",
+    "equipment": ["none"],
+    "exclusion": ["none"],
+    "default_load": 0.0,
+    "units": "bodyweight",
+    "reptype": "seconds",
+    "reps": 30
+  },
+  {
+    "id": "dumbbell_press",
+    "name": "Dumbbell Press",
+    "body_regions": [
+      "upper"
+    ],
+    "muscle_groups": [
+      "pectoralis_major",
+      "anterior_deltoid",
+      "triceps"
+    ],
+    "movement_pattern": "horizontal_push",
+    "plane_of_motion": "sagittal",
+    "roles": [
+      "primary_upper"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "ground",
+    "equipment": [
+      "dumbbell",
+      "weight_bench"
+    ],
+    "exclusion": [
+      "push_up",
+      "butterfly_press"
+    ],
+    "default_load": 10.0,
+    "units": "pounds",
+    "reptype": "reps",
+    "reps": 12
+  },
+  {
+    "id": "butterfly_press",
+    "name": "Butterfly Press",
+    "body_regions": [
+      "upper"
+    ],
+    "muscle_groups": [
+      "pectoralis_major"
+    ],
+    "movement_pattern": "horizontal_adduction",
+    "plane_of_motion": "frontal",
+    "roles": [
+      "accessory"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "ground",
+    "equipment": [
+      "dumbbell",
+      "weight_bench"
+    ],
+    "exclusion": [
+      "dumbbell_press"
+    ],
+    "default_load": 10.0,
+    "units": "pounds",
+    "reptype": "reps",
+    "reps": 12
+  },
+  {
+    "id": "tricep_press",
+    "name": "Tricep Press",
+    "body_regions": [
+      "arms",
+      "upper"
+    ],
+    "muscle_groups": [
+      "triceps"
+    ],
+    "movement_pattern": "elbow_extension",
+    "plane_of_motion": "sagittal",
+    "roles": [
+      "accessory"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "standing",
+    "equipment": [
+      "dumbbell"
+    ],
+    "exclusion": ["none"],
+    "default_load": 10.0,
+    "units": "pounds",
+    "reptype": "reps",
+    "reps": 12
+  },
+  {
+    "id": "narrow_upwards_row",
+    "name": "Narrow Upwards Row",
+    "body_regions": [
+      "upper"
+    ],
+    "muscle_groups": [
+      "trapezius",
+      "deltoids",
+      "biceps"
+    ],
+    "movement_pattern": "vertical_pull",
+    "plane_of_motion": "frontal",
+    "roles": [
+      "primary_upper"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "standing",
+    "equipment": [
+      "dumbbell"
+    ],
+    "exclusion": [
+      "wide_upwards_row",
+      "upwards_row"
+    ],
+    "default_load": 10.0,
+    "units": "pounds",
+    "reptype": "reps",
+    "reps": 12
+  },
+  {
+    "id": "wide_upwards_row",
+    "name": "Wide Upwards Row",
+    "body_regions": [
+      "upper"
+    ],
+    "muscle_groups": [
+      "lateral_deltoid",
+      "trapezius"
+    ],
+    "movement_pattern": "vertical_pull",
+    "plane_of_motion": "frontal",
+    "roles": [
+      "primary_upper"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "standing",
+    "equipment": [
+      "dumbbell"
+    ],
+    "exclusion": [
+      "narrow_upwards_row",
+      "upwards_row"
+    ],
+    "default_load": 10.0,
+    "units": "pounds",
+    "reptype": "reps",
+    "reps": 12
+  },
+  {
+    "id": "upwards_row",
+    "name": "Upwards Row",
+    "body_regions": [
+      "upper"
+    ],
+    "muscle_groups": [
+      "trapezius",
+      "deltoids"
+    ],
+    "movement_pattern": "vertical_pull",
+    "plane_of_motion": "frontal",
+    "roles": [
+      "primary_upper"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "standing",
+    "equipment": [
+      "dumbbell"
+    ],
+    "exclusion": [
+      "narrow_upwards_row",
+      "wide_upwards_row"
+    ],
+    "default_load": 10.0,
+    "units": "pounds",
+    "reptype": "reps",
+    "reps": 12
+  },
+  {
+    "id": "side_plank",
+    "name": "Side Plank",
+    "body_regions": [
+      "core"
+    ],
+    "muscle_groups": [
+      "obliques",
+      "transverse_abdominis",
+      "gluteus_medius"
+    ],
+    "movement_pattern": "anti_lateral_flexion",
+    "plane_of_motion": "frontal",
+    "roles": [
+      "integration"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "ground",
+    "equipment": ["none"],
+    "exclusion": [
+      "weighted_side_bend",
+      "copenhagen_plank"
+    ],
+    "default_load": 0.0,
+    "units": "bodyweight",
+    "reptype": "seconds/side",
+    "reps": 30.0
+  },
+  {
+    "id": "box_pistol_squat",
+    "name": "Box Pistol Squat",
+    "body_regions": [
+      "lower",
+      "core"
+    ],
+    "muscle_groups": [
+      "quadriceps",
+      "gluteus_maximus",
+      "ankle_stabilizers"
+    ],
+    "movement_pattern": "unilateral_squat",
+    "plane_of_motion": "sagittal",
+    "roles": [
+      "primary_lower"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "standing",
+    "equipment": [
+      "plyo_box"
+    ],
+    "exclusion": [
+      "bulgarian_split_squat",
+      "box_squat"
+    ],
+    "default_load": 0.0,
+    "units": "pounds",
+    "reptype": "reps/side",
+    "reps": 12
+  },
+  {
+    "id": "bridge_yoga_ball_feet",
+    "name": "Bridges with Feet on Yoga Ball",
+    "body_regions": [
+      "lower",
+      "core"
+    ],
+    "muscle_groups": [
+      "gluteus_maximus",
+      "hamstrings",
+      "core_stabilizers"
+    ],
+    "movement_pattern": "hip_extension",
+    "plane_of_motion": "sagittal",
+    "roles": [
+      "posterior_chain",
+      "integration"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "ground",
+    "equipment": [
+      "yoga_ball"
+    ],
+    "exclusion": [
+      "bridge_toe_taps",
+      "hip_thruster"
+    ],
+    "default_load": 0.0,
+    "units": "bodyweight",
+    "reptype": "seconds",
+    "reps": 60
+  },
+  {
+    "id": "floor_low_plank",
+    "name": "Floor Low Plank",
+    "body_regions": [
+      "core"
+    ],
+    "muscle_groups": [
+      "rectus_abdominis",
+      "transverse_abdominis",
+      "serratus_anterior"
+    ],
+    "movement_pattern": "anti_extension",
+    "plane_of_motion": "sagittal",
+    "roles": [
+      "integration"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "ground",
+    "equipment": ["none"],
+    "exclusion": [
+      "floor_high_plank",
+      "plank_yoga_ball"
+    ],
+    "default_load": 0.0,
+    "units": "bodyweight",
+    "reptype": "seconds",
+    "reps": 30.0
+  },
+  {
+    "id": "floor_high_plank",
+    "name": "Floor High Plank",
+    "body_regions": [
+      "core",
+      "upper"
+    ],
+    "muscle_groups": [
+      "rectus_abdominis",
+      "transverse_abdominis",
+      "triceps",
+      "shoulder_stabilizers"
+    ],
+    "movement_pattern": "anti_extension",
+    "plane_of_motion": "sagittal",
+    "roles": [
+      "integration"
+    ],
+    "ladder_eligible": true,
+    "ground_or_standing": "ground",
+    "equipment": ["none"],
+    "exclusion": [
+      "floor_low_plank",
+      "push_up"
+    ],
+    "default_load": 0.0,
+    "units": "bodyweight",
+    "reptype": "seconds",
+    "reps": 30.0
+  }
+]

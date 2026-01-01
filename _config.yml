@@ -1,0 +1,132 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: "Workouts"
+subtitle: "Automaticlly Generated Workout Plans"
+email: hunsakerconsulting@gmail.com
+description: >-
+    Automaticlly Generated Workout Plans
+url: https://github.io/mrhunsaker/workout_generator
+copyright: "TVI Resources"
+github_username: mrhunsaker
+minimal_mistakes_skin: "dirt"
+search: true
+search_full_content: true
+repository: mrhunsaker/workout_generator
+future: false
+lunr:
+    search_within_pages: true
+    search_full_content: true
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+sass:
+    sass_dir: _sass
+    style: compressed
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: "America/Denver"
+include:
+    - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - node_modules
+    - vendor/bundle/
+    - vendor/cache/
+    - vendor/gems/
+    - vendor/ruby/
+    - templates/
+
+# Plugins (previously gems:)
+plugins:
+    - jekyll-paginate
+    - jekyll-sitemap
+    - jekyll-gist
+    - jekyll-feed
+    - jemoji
+    - jekyll-include-cache
+
+author:
+    name: "Michael Ryan Hunsaker, M.Ed., Ph.D."
+    avatar: "/assets/images/bio-photo.jpg"
+    bio: "Behavioral Neuroscientist who became a Teacher for Students with Visual Impairments who loves to teach and write about assistive technology, visual impairments, and accessibility."
+    location: "Utah, USA"
+    links:
+        - label: "Email"
+          icon: "fas fa-fw fa-envelope"
+          url: "mailto:ryhunsaker@dsdmail.net"
+        - label: "Website"
+          icon: "fas fa-fw fa-link"
+          url: "https://tviresources.github.io"
+        - label: "GitHub"
+          icon: "fab fa-fw fa-github"
+          url: "https://github.com/mrhunsaker"
+        - label: "Thingiverse"
+          icon: "fas fa-fw fa-gear"
+          url: "https://www.thingiverse.com/TVI_Resources/designs"
+        - label: "MakerWorld"
+          icon: "fas fa-fw fa-gear"
+          url: "https://makerworld.com/en/@user_657113522"
+
+footer:
+    links:
+        - label: "GitHub"
+          icon: "fab fa-fw fa-github"
+          url: "https://github.com/TVIResources"
+    since: "2025"
+
+defaults:
+    # _posts
+    - scope:
+          path: "_posts"
+          type: posts
+      values:
+          layout: single
+          author_profile: true
+          read_time: true
+          comments: true
+          share: true
+          related: true
+          enable_copy_code_button: true
+    # _pages
+    - scope:
+          path: "_pages"
+          type: pages
+      values:
+          layout: single
+          author_profile: true
+          enable_copy_code_button: true
+google_site_verification: "pDGXVsVdocK2DnzWktT-3WC1o7qZBrfc1S-3-aTylZc"
+bing_site_verification: "305890C07AABA443F5BBF3A49958C599"
+naver_site_verification: ""
+comments:
+    provider: "custom"
+    enabled: true
+
+category_archive:
+    type: liquid
+    path: /categories/
+tag_archive:
+    type: liquid
+    path: /tags/
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"

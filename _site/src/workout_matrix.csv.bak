@@ -1,0 +1,40 @@
+day,set,rounds,num_exercises,exercise_position,body_region,rep_scheme,ground_or_standing,notes
+1,1,3,3,1,lower,10-12,varies,Complementary to integration exercise
+1,1,3,3,2,upper,10-12,varies,Complementary to integration exercise
+1,1,3,3,3,integration,10-12,varies,Target exercise - uses muscles from ex 1 & 2
+1,2,3,3,1,lower,10-12,varies,Complementary to integration exercise
+1,2,3,3,2,upper,10-12,varies,Complementary to integration exercise
+1,2,3,3,3,integration,10-12,varies,Target exercise - uses muscles from ex 1 & 2
+1,3,3,2-3,1,lower,10-12,varies,Can be 2 or 3 exercise set
+1,3,3,2-3,2,upper,10-12,varies,Can be 2 or 3 exercise set
+1,3,3,2-3,3,integration,10-12,varies,Optional 3rd exercise if available
+2,1,3,2,1,lower,ladder_10-1,ground,Alternates with standing upper
+2,1,3,2,2,upper,ladder_10-1,standing,Alternates with ground lower
+2,2,3,2,1,lower,ladder_10-1,standing,Alternates with ground upper
+2,2,3,2,2,upper,ladder_10-1,ground,Alternates with standing lower
+2,3,3,2,1,lower,ladder_10-1,ground,Alternates with standing upper
+2,3,3,2,2,upper,ladder_10-1,standing,Alternates with ground lower
+3,1,3,3,1,lower,10-12,varies,Complementary to integration exercise
+3,1,3,3,2,upper,10-12,varies,Complementary to integration exercise
+3,1,3,3,3,integration,10-12,varies,Target exercise - uses muscles from ex 1 & 2
+3,2,3,3,1,lower,10-12,varies,Complementary to integration exercise
+3,2,3,3,2,upper,10-12,varies,Complementary to integration exercise
+3,2,3,3,3,integration,10-12,varies,Target exercise - uses muscles from ex 1 & 2
+3,3,3,2-3,1,lower,10-12,varies,Can be 2 or 3 exercise set
+3,3,3,2-3,2,upper,10-12,varies,Can be 2 or 3 exercise set
+3,3,3,2-3,3,integration,10-12,varies,Optional 3rd exercise if available
+4,1,3,2,1,lower,ladder_10-1,standing,Alternates with ground upper
+4,1,3,2,2,upper,ladder_10-1,ground,Alternates with standing lower
+4,2,3,2,1,lower,ladder_10-1,ground,Alternates with standing upper
+4,2,3,2,2,upper,ladder_10-1,standing,Alternates with ground lower
+4,3,3,2,1,lower,ladder_10-1,standing,Alternates with ground upper
+4,3,3,2,2,upper,ladder_10-1,ground,Alternates with standing lower
+5,1,3,3,1,lower,10-12,varies,Complementary to integration exercise
+5,1,3,3,2,upper,10-12,varies,Complementary to integration exercise
+5,1,3,3,3,integration,10-12,varies,Target exercise - uses muscles from ex 1 & 2
+5,2,3,3,1,lower,10-12,varies,Complementary to integration exercise
+5,2,3,3,2,upper,10-12,varies,Complementary to integration exercise
+5,2,3,3,3,integration,10-12,varies,Target exercise - uses muscles from ex 1 & 2
+5,3,3,2-3,1,lower,10-12,varies,Can be 2 or 3 exercise set
+5,3,3,2-3,2,upper,10-12,varies,Can be 2 or 3 exercise set
+5,3,3,2-3,3,integration,10-12,varies,Optional 3rd exercise if available

@@ -1,0 +1,20 @@
+{
+  "x_min": 0.0,
+  "x_max": 4.0,
+  "y_min": 0.0,
+  "y_max": 5.0,
+  "x_log": false,
+  "y_log": false,
+  "datasets": [
+    {
+      "name": "Dataset A",
+      "color": "#2ca02c",
+      "points": [[0,0.5],[1,1.2],[2,null],[3,3.1],[4,4.0]]
+    },
+    {
+      "name": "Dataset B",
+      "color": "#d62728",
+      "points": [[0,1.0],[1,null],[2,2.2],[3,2.9],[4,null]]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "title": "Content Restructuring and Expansion Prompt",
+  "description": "Guidelines for expanding and restructuring educational blog posts to match a consistent, classroom-focused tone and format.",
+  "target_template": "braille-math-worksheet-generator.md",
+  "output_format": "Jekyll Markdown (Kramdown compatible)",
+  "kramdown_requirements": [
+    "Use fenced code blocks with language specification (~~~ language or ```language)",
+    "Ensure blank lines around headings (MD022)",
+    "No bare URLs—wrap in descriptive link text [description](url)",
+    "Proper list formatting with consistent indentation and blank lines before/after lists",
+    "Inline images with descriptive alt text: ![alt text](/path/to/image.png)",
+    "Use <!--more--> excerpt separator after introductory content",
+    "Proper YAML frontmatter with excerptSeparator, date, categories, tags, and search metadata"
+  ],
+  "restructuring_steps": [
+    {
+      "step": 1,
+      "name": "Reorganize opening",
+      "description": "Introduce foundational value propositions before diving into technical features",
+      "sub_points": [
+        "Add 'Why [tool/concept] helps' section with 3-4 bullet points addressing student/teacher pain points",
+        "Add 'What students gain' section with learning outcomes and benefits",
+        "Clarify the 'Features' section with concise, benefit-driven descriptions",
+        "Maintain the original problem statement but strengthen its connection to the solution"
+      ]
+    },
+    {
+      "step": 2,
+      "name": "Add classroom use cases",
+      "description": "Provide concrete, real-world scenarios teachers will recognize",
+      "sub_points": [
+        "Include 4-5 specific use cases (e.g., braille progress tracking, assistive-tech monitoring, session notes)",
+        "Frame each use case with practical outcomes (e.g., 'weekly fluency checks', 'configuration tracking')",
+        "Reference specific skills or tools mentioned in the original content (e.g., Perkins braillewriter, place-value alignment)",
+        "Make each use case immediately actionable for educators"
+      ]
+    },
+    {
+      "step": 3,
+      "name": "Add teaching tips",
+      "description": "Offer practical strategies for effective classroom implementation",
+      "sub_points": [
+        "Provide 4-5 actionable, classroom-tested recommendations",
+        "Use imperative language (e.g., 'Make entries immediately', 'Be consistent with entry types')",
+        "Connect tips to earlier use cases and features so advice feels integrated",
+        "Include tips for both foundational use and advanced refinement (e.g., 'Check work using frames', 'Gradually fade structure')"
+      ]
+    },
+    {
+      "step": 4,
+      "name": "Reformat example images",
+      "description": "Integrate images with inline descriptions for clarity and accessibility",
+      "sub_points": [
+        "Convert bullet lists of images to inline format with descriptive labels",
+        "Include alt text that describes both the component and notation (e.g., 'Addition/Subtraction Frame (UEB braille)')",
+        "Maintain file paths and ensure images are accessible in the site structure",
+        "Use proper Kramdown image syntax: ![alt text](/assets/images/path/to/image.png)"
+      ]
+    },
+    {
+      "step": 5,
+      "name": "Streamline advanced customization",
+      "description": "Make technical customization accessible without overwhelming detail",
+      "sub_points": [
+        "Replace lengthy technical code blocks with clear, numbered steps",
+        "Link to external tools and resources (e.g., OpenSCAD.org, slicing software) rather than duplicating instructions",
+        "Separate basic customization (using UI controls) from advanced customization (editing source code)",
+        "Defer complex details to the README in the download package",
+        "Maintain reference links but avoid multi-page technical instructions inline"
+      ]
+    },
+    {
+      "step": 6,
+      "name": "Expand contribution note",
+      "description": "Invite specific types of contributions aligned with the post's goals",
+      "sub_points": [
+        "Ask for contributions that extend the tool's usefulness (custom templates, lesson plans, assessment rubrics, export scripts)",
+        "Emphasize open-source collaboration and community benefit",
+        "Reference GitHub issues and pull requests as contribution channels",
+        "Match the tone to earlier sections (practical, classroom-focused, collaborative)"
+      ]
+    },
+    {
+      "step": 7,
+      "name": "Remove or consolidate extraneous elements",
+      "description": "Clean up elements that don't serve the post's purpose",
+      "sub_points": [
+        "Remove static HTML form includes (e.g., {% include staticman-form.html %})",
+        "Remove overly technical implementation notes that don't aid classroom use",
+        "Consolidate redundant explanations or tool descriptions",
+        "Ensure all remaining content directly supports teachers or developers using the tool"
+      ]
+    }
+  ],
+  "tone_and_voice": {
+    "primary_characteristics": [
+      "Classroom-focused: written for teachers, TVIs, and educators, not software engineers",
+      "Practical and actionable: every section should offer something teachers can immediately apply",
+      "Humble and collaborative: invite feedback, acknowledge limitations, welcome contributions",
+      "Consistent technical precision: maintain correct terminology (e.g., UEB vs. Nemeth, OpenSCAD, Kramdown)",
+      "Encouraging: emphasize what students gain and how the tool reduces cognitive burden"
+    ],
+    "language_patterns": [
+      "Use short, direct sentences (aim for 12-15 word average)",
+      "Prefer active voice ('students practice long division' vs. 'long division can be practiced')",
+      "Use imperatives for actionable advice ('Make entries immediately', 'Be consistent')",
+      "Use parallel structure in lists and use cases for readability",
+      "Avoid marketing hype—focus on concrete benefits and honest limitations"
+      "Do not use em-dash or en-dash",
+      "Use the Oxford comma for all lists as applicable"
+    ]
+  },
+  "structure_template": {
+    "section_order": [
+      "YAML frontmatter",
+      "Opening narrative (problem statement + value proposition)",
+      "<!--more--> excerpt separator",
+      "## Why [tool/concept] helps (bullet list)",
+      "## What students gain (bullet list)",
+      "## Features (longer descriptive section)",
+      "## Classroom use cases (bulleted scenarios)",
+      "## Teaching tips (bulleted strategies)",
+      "## Getting Started (or similar main CTA)",
+      "## Example images (inline with descriptions)",
+      "[Additional sections as relevant to tool: Data export, Customization, etc.]",
+      "## Customization and contribution (invitation to collaborate)",
+      "[NO static form includes or extraneous markup]"
+    ]
+  },
+  "kramdown_checklist": {
+    "formatting": [
+      "Blank lines before and after headings",
+      "Fenced code blocks with language tags (~~~language)",
+      "Backtics (```) in kramdown reference block/quote text and not languaged tagged code",
+      "No bare URLs—always wrap in link text [description](url)",
+      "Proper blank lines around lists (before and after)",
+      "Consistent indentation in nested lists",
+      "Images with descriptive alt text: ![alt](/path/to/image.png)"
+    ],
+    "frontmatter": [
+      "title: (string, in quotes)",
+      "excerpt_separator: '<!--more-->'",
+      "date: YYYY-MM-DD",
+      "categories: [list]",
+      "tags: [list]",
+      "search: exclude (if applicable)"
+    ],
+    "validation_step": "Run `jekyll build --future` or linting check to confirm no Markdown errors (MD022, MD003, etc.)"
+  },
+  "example_usage": {
+    "input": "A minimally structured blog post with technical details mixed into narrative",
+    "process": "Apply the 7 restructuring steps above while maintaining Kramdown compatibility",
+    "output": "A classroom-ready, well-organized post with clear sections, actionable advice, and community contribution pathway"
+  },
+  "notes": [
+    "This prompt is designed for educational content about instructional tools, assistive technology, or pedagogy.",
+    "The tone and structure prioritize teacher usability over technical completeness.",
+    "Always maintain subject-matter accuracy while improving clarity and accessibility.",
+    "Contributions and feedback on this prompt are welcome—this is a living document."
+  ]
+}

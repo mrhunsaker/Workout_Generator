@@ -1,0 +1,7 @@
+<!-- Minimal search include: provides a basic accessible search form. -->
+<!-- If you have a client-side search tool (SimpleJekyllSearch, Lunr, Algolia), you can replace this with the appropriate markup/JS. -->
+<form action="{{ site.baseurl | default: '/' }}search/" method="get" role="search" class="site-search">
+  <label for="site-search" class="visually-hidden">Search this site</label>
+  <input id="site-search" name="q" type="search" placeholder="Search the site" aria-label="Search the site" />
+  <button type="submit">Search</button>
+</form>
