@@ -518,6 +518,7 @@ def write_post_copy(md_text: str, start_date: date, posts_dir: Optional[str] = N
         "---",
         f'title: "Workout for week starting {start_date.strftime("%Y-%m-%d")}"',
         'excerpt_separator: "<!--more-->"',
+        f'permalink: /blog/workout/{start_date.strftime("%Y-%m-%d")}/',
         f"date: {start_date.strftime('%Y-%m-%d')}",
         "toc: true",
         "categories:",
