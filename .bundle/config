@@ -1,0 +1,2 @@
+---
+BUNDLE_BUILD__EVENTMACHINE: "--with-cppflags=-I/home/linuxbrew/.linuxbrew/opt/openssl@3/include --with-ldflags=-L/home/linuxbrew/.linuxbrew/opt/openssl@3/lib"
