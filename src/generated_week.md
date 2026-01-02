@@ -2,58 +2,159 @@
 *Generated 2026-01-05*
 
 ## Day 1
-### Set 1 — REGULAR
-**5 ROUNDS**: 5 ☐ 4 ☐ 3 ☐ 2 ☐ 1 ☐
-- Floor Internal / External Rotation | 5.0 pounds    | 40 reps/side   
-**Muscle Groups**:  rotator_cuff   
+### Set 1 — AMSAP
+**AMSAP**: Repeat this set for 30 minutes. No Need to Count ☐
+- Standing Row | 10.0 pounds    | 12 reps   
+**Muscle Groups**:  latissimus_dorsi, rhomboids, biceps   
 **Equipment Needed**: dumbbell   
 
-- Bulgarian Split Squat | 10.0 pounds    | 12 reps/side   
-**Muscle Groups**:  quadriceps, gluteus_maximus, hamstrings, calves   
-**Equipment Needed**: dumbbell, weight_bench, weight_bench   
+- Sumo Squat | 10.0 pounds    | 12 reps   
+**Muscle Groups**:  adductors, gluteus_maximus, hamstrings, quadriceps   
+**Equipment Needed**: dumbbell   
 
-- Hamstring Curl (Slider) | Bodyweight | 12 reps   
-**Muscle Groups**:  hamstrings, gluteus_maximus   
-**Equipment Needed**: slider   
+- Curtsy Squat | 10.0 pounds    | 12 reps/side   
+**Muscle Groups**:  gluteus_medius, quadriceps   
+**Equipment Needed**: dumbbell   
 
 ### Set 2 — REGULAR
+**5 ROUNDS**: 5 ☐ 4 ☐ 3 ☐ 2 ☐ 1 ☐
+- Shrugs | 10.0 pounds    | 12 reps   
+**Muscle Groups**:  upper_trapezius   
+**Equipment Needed**: dumbbell   
+
+- Box Squat | 10.0 pounds    | 12 reps   
+**Muscle Groups**:  quadriceps, gluteus_maximus   
+**Equipment Needed**: plyo_box, dumbbell   
+
+- Russian Twist | 10.0 pounds    | 12 reps   
+**Muscle Groups**:  obliques, rectus_abdominis   
+**Equipment Needed**: dumbbell, medicine_ball   
+
+### Set 3 — REGULAR
 **5 ROUNDS**: 5 ☐ 4 ☐ 3 ☐ 2 ☐ 1 ☐
 - Lateral Raises | 10.0 pounds    | 12 reps/side   
 **Muscle Groups**:  medial_deltoid   
 **Equipment Needed**: dumbbell   
 
-- Jump Squat | Bodyweight | 12 reps   
-**Muscle Groups**:  quadriceps, gluteus_maximus, calves, hamstrings, core   
+- Forward Lunge | 10.0 pounds    | 12 reps/side   
+**Muscle Groups**:  quadriceps, gluteus_maximus   
+**Equipment Needed**: dumbbell   
+
+- Push Up | Bodyweight | 12 reps   
+**Muscle Groups**:  pectoralis_major, triceps, anterior_deltoid   
 **Equipment Needed**: none   
 
-- Side Lunge | 10.0 pounds    | 12 reps/side   
-**Muscle Groups**:  adductors, gluteus_maximus   
+## Day 2
+### Set 1 — REGULAR
+**5 ROUNDS**: 5 ☐ 4 ☐ 3 ☐ 2 ☐ 1 ☐
+- Shrugs | 10.0 pounds    | 12 reps   
+**Muscle Groups**:  upper_trapezius   
 **Equipment Needed**: dumbbell   
+
+- Bridge Toe Taps | Bodyweight | 30 seconds   
+**Muscle Groups**:  gluteus_maximus, hamstrings   
+**Equipment Needed**: none   
+
+- Clam Walk With Strap | 0.0 pounds    | 30 seconds   
+**Muscle Groups**:  gluteus_medius, gluteus_minimus   
+**Equipment Needed**: resistance_band   
+
+### Set 2 — REGULAR
+**5 ROUNDS**: 5 ☐ 4 ☐ 3 ☐ 2 ☐ 1 ☐
+- Upwards Row | 10.0 pounds    | 12 reps   
+**Muscle Groups**:  trapezius, deltoids   
+**Equipment Needed**: dumbbell   
+
+- Box Pistol Squat | 0.0 pounds    | 12 reps/side   
+**Muscle Groups**:  quadriceps, gluteus_maximus, ankle_stabilizers   
+**Equipment Needed**: plyo_box   
+
+- Russian Twist | 10.0 pounds    | 12 reps   
+**Muscle Groups**:  obliques, rectus_abdominis   
+**Equipment Needed**: dumbbell, medicine_ball   
 
 ### Set 3 — AMSAP
 **AMSAP**: Repeat this set for 30 minutes. No Need to Count ☐
-- Hammer Curls | 10.0 pounds    | 12 reps/side   
-**Muscle Groups**:  brachialis, biceps_brachii, forearms   
+- Tricep Press | 10.0 pounds    | 12 reps   
+**Muscle Groups**:  triceps   
 **Equipment Needed**: dumbbell   
 
-- Calf Raises | Bodyweight | 100 reps   
-**Muscle Groups**:  gastrocnemius, soleus   
-**Equipment Needed**: dumbbell, resistance_bands   
+- Reverse Lunge | 10.0 pounds    | 12 reps/side   
+**Muscle Groups**:  quadriceps, gluteus_maximus   
+**Equipment Needed**: dumbbell   
+
+- Single Leg Hamstring Curl (Slider) | Bodyweight | 12 reps/side   
+**Muscle Groups**:  hamstrings, gluteus_maximus   
+**Equipment Needed**: slider   
+
+## Day 3
+### Set 1 — LADDER
+**10-1 LADDER**: 10 ☐ 9 ☐ 8 ☐ 7 ☐ 6 ☐ 5 ☐ 4 ☐ 3 ☐ 2 ☐ 1 ☐
+- Wide Upwards Row | 10.0 pounds    | 12 reps   
+**Muscle Groups**:  lateral_deltoid, trapezius   
+**Equipment Needed**: dumbbell   
+
+- Hamstring Curl (Yoga Ball) | Bodyweight | 12 reps   
+**Muscle Groups**:  hamstrings, gluteus_maximus   
+**Equipment Needed**: yoga_ball   
+
+- Side Plank | Bodyweight | 30.0 seconds/side   
+**Muscle Groups**:  obliques, transverse_abdominis, gluteus_medius   
+**Equipment Needed**: none   
+
+### Set 2 — AMSAP
+**AMSAP**: Repeat this set for 30 minutes. No Need to Count ☐
+- Frontline POW Raise | 10.0 pounds    | 12 reps/side   
+**Muscle Groups**:  anterior_deltoid, upper_chest   
+**Equipment Needed**: dumbbell   
+
+- Bridge Toe Taps | Bodyweight | 30 seconds   
+**Muscle Groups**:  gluteus_maximus, hamstrings   
+**Equipment Needed**: none   
+
+- Yoga Ball Plank Circles | Bodyweight | 30.0 seconds   
+**Muscle Groups**:  rectus_abdominis, transverse_abdominis, obliques, shoulder_stabilizers   
+**Equipment Needed**: yoga_ball   
+
+## Day 4
+### Set 1 — LADDER
+**10-1 LADDER**: 10 ☐ 9 ☐ 8 ☐ 7 ☐ 6 ☐ 5 ☐ 4 ☐ 3 ☐ 2 ☐ 1 ☐
+- Frontline POW Raise | 10.0 pounds    | 12 reps/side   
+**Muscle Groups**:  anterior_deltoid, upper_chest   
+**Equipment Needed**: dumbbell   
+
+- Split Squat | 10.0 pounds    | 12 reps/side   
+**Muscle Groups**:  quadriceps, gluteus_maximus   
+**Equipment Needed**: dumbbell   
 
 - Copenhagen Plank | Bodyweight | 12 reps/side   
 **Muscle Groups**:  adductors, obliques   
 **Equipment Needed**: weight_bench   
 
-## Day 2
-### Set 1 — AMSAP
+### Set 2 — AMSAP
 **AMSAP**: Repeat this set for 30 minutes. No Need to Count ☐
-- Arnold Press | 10.0 pounds    | 12 reps/side   
-**Muscle Groups**:  anterior_deltoid, medial_deltoid, triceps   
+- Elbow Out Row | 10.0 pounds    | 12 reps/side   
+**Muscle Groups**:  posterior_deltoid, rhomboids, upper_trapezius   
 **Equipment Needed**: dumbbell   
 
-- Single Leg Calf Raises | Bodyweight | 50 reps/side   
-**Muscle Groups**:  gastrocnemius, soleus   
+- Box Squat | 10.0 pounds    | 12 reps   
+**Muscle Groups**:  quadriceps, gluteus_maximus   
+**Equipment Needed**: plyo_box, dumbbell   
+
+- Floor High Plank | Bodyweight | 30.0 seconds   
+**Muscle Groups**:  rectus_abdominis, transverse_abdominis, triceps, shoulder_stabilizers   
 **Equipment Needed**: none   
+
+## Day 5
+### Set 1 — AMSAP
+**AMSAP**: Repeat this set for 30 minutes. No Need to Count ☐
+- Upwards Row | 10.0 pounds    | 12 reps   
+**Muscle Groups**:  trapezius, deltoids   
+**Equipment Needed**: dumbbell   
+
+- Sumo Squat | 10.0 pounds    | 12 reps   
+**Muscle Groups**:  adductors, gluteus_maximus, hamstrings, quadriceps   
+**Equipment Needed**: dumbbell   
 
 - Plank on Yoga Ball | Bodyweight | 30.0 seconds   
 **Muscle Groups**:  rectus_abdominis, transverse_abdominis, shoulder_stabilizers   
@@ -61,122 +162,21 @@
 
 ### Set 2 — LADDER
 **10-1 LADDER**: 10 ☐ 9 ☐ 8 ☐ 7 ☐ 6 ☐ 5 ☐ 4 ☐ 3 ☐ 2 ☐ 1 ☐
-- Push Up | Bodyweight | 12 reps   
-**Muscle Groups**:  pectoralis_major, triceps, anterior_deltoid   
-**Equipment Needed**: none   
-
-- Curtsy Squat | 10.0 pounds    | 12 reps/side   
-**Muscle Groups**:  gluteus_medius, quadriceps   
-**Equipment Needed**: dumbbell   
-
-- Side Plank | Bodyweight | 30.0 seconds/side   
-**Muscle Groups**:  obliques, transverse_abdominis, gluteus_medius   
-**Equipment Needed**: none   
-
-## Day 3
-### Set 1 — LADDER
-**10-1 LADDER**: 10 ☐ 9 ☐ 8 ☐ 7 ☐ 6 ☐ 5 ☐ 4 ☐ 3 ☐ 2 ☐ 1 ☐
-- Butterfly Press | 10.0 pounds    | 12 reps   
-**Muscle Groups**:  pectoralis_major   
-**Equipment Needed**: dumbbell, weight_bench   
-
-- Hamstring Curl (Yoga Ball) | Bodyweight | 12 reps   
-**Muscle Groups**:  hamstrings, gluteus_maximus   
-**Equipment Needed**: yoga_ball   
-
-- Single Leg Hamstring Curl (Slider) | Bodyweight | 12 reps/side   
-**Muscle Groups**:  hamstrings, gluteus_maximus   
-**Equipment Needed**: slider   
-
-### Set 2 — AMSAP
-**AMSAP**: Repeat this set for 30 minutes. No Need to Count ☐
-- Narrow Upwards Row | 10.0 pounds    | 12 reps   
-**Muscle Groups**:  trapezius, deltoids, biceps   
-**Equipment Needed**: dumbbell   
-
-- Front Squat (Goblet) | 10.0 pounds    | 12 reps   
-**Muscle Groups**:  quadriceps, gluteus_maximus, adductors, hamstrings, core   
-**Equipment Needed**: dumbbell   
-
-- Floor Low Plank | Bodyweight | 30.0 seconds   
-**Muscle Groups**:  rectus_abdominis, transverse_abdominis, serratus_anterior   
-**Equipment Needed**: none   
-
-## Day 4
-### Set 1 — REGULAR
-**5 ROUNDS**: 5 ☐ 4 ☐ 3 ☐ 2 ☐ 1 ☐
-- Turkish Get-Up | 10.0 pounds    | 6 reps/side   
-**Muscle Groups**:  shoulder_stabilizers, glutes, core_stabilizers   
-**Equipment Needed**: dumbbell   
-
-- Split Squat | 10.0 pounds    | 12 reps/side   
-**Muscle Groups**:  quadriceps, gluteus_maximus   
-**Equipment Needed**: dumbbell   
-
-- Yoga Ball Plank Back and Forth | Bodyweight | 30.0 seconds   
-**Muscle Groups**:  rectus_abdominis, transverse_abdominis, shoulder_stabilizers   
-**Equipment Needed**: yoga_ball   
-
-### Set 2 — LADDER
-**10-1 LADDER**: 10 ☐ 9 ☐ 8 ☐ 7 ☐ 6 ☐ 5 ☐ 4 ☐ 3 ☐ 2 ☐ 1 ☐
-- Rear Delt Fly | 10.0 pounds    | 12 reps/side   
-**Muscle Groups**:  posterior_deltoid   
-**Equipment Needed**: dumbbell   
-
-- Reverse Lunge | 10.0 pounds    | 12 reps/side   
-**Muscle Groups**:  quadriceps, gluteus_maximus   
-**Equipment Needed**: dumbbell   
-
-- Side Lunge | 10.0 pounds    | 12 reps/side   
-**Muscle Groups**:  adductors, gluteus_maximus   
-**Equipment Needed**: dumbbell   
-
-### Set 3 — REGULAR
-**5 ROUNDS**: 5 ☐ 4 ☐ 3 ☐ 2 ☐ 1 ☐
-- Wide Upwards Row | 10.0 pounds    | 12 reps   
-**Muscle Groups**:  lateral_deltoid, trapezius   
-**Equipment Needed**: dumbbell   
-
-- Forward Lunge | 10.0 pounds    | 12 reps/side   
-**Muscle Groups**:  quadriceps, gluteus_maximus   
-**Equipment Needed**: dumbbell   
-
-- Yoga Ball Plank Circles | Bodyweight | 30.0 seconds   
-**Muscle Groups**:  rectus_abdominis, transverse_abdominis, obliques, shoulder_stabilizers   
-**Equipment Needed**: yoga_ball   
-
-## Day 5
-### Set 1 — AMSAP
-**AMSAP**: Repeat this set for 30 minutes. No Need to Count ☐
 - Dumbbell Press | 10.0 pounds    | 12 reps   
 **Muscle Groups**:  pectoralis_major, anterior_deltoid, triceps   
 **Equipment Needed**: dumbbell, weight_bench   
 
-- Bridges with Feet on Yoga Ball | Bodyweight | 60 seconds   
-**Muscle Groups**:  gluteus_maximus, hamstrings, core_stabilizers   
-**Equipment Needed**: yoga_ball   
+- Single Leg Calf Raises | Bodyweight | 50 reps/side   
+**Muscle Groups**:  gastrocnemius, soleus   
+**Equipment Needed**: none   
 
-- Weighted Side Bend | 10.0 pounds    | 30 reps/side   
-**Muscle Groups**:  obliques, quadratus_lumborum   
-**Equipment Needed**: dumbbell   
-
-### Set 2 — LADDER
-**10-1 LADDER**: 10 ☐ 9 ☐ 8 ☐ 7 ☐ 6 ☐ 5 ☐ 4 ☐ 3 ☐ 2 ☐ 1 ☐
-- Floor Internal / External Rotation | 5.0 pounds    | 40 reps/side   
-**Muscle Groups**:  rotator_cuff   
-**Equipment Needed**: dumbbell   
-
-- Romanian Deadlift | 10.0 pounds    | 12 reps/side   
-**Muscle Groups**:  hamstrings, gluteus_maximus, erector_spinae   
-**Equipment Needed**: dumbbell   
-
-- Hamstring Curl (Slider) | Bodyweight | 12 reps   
-**Muscle Groups**:  hamstrings, gluteus_maximus   
-**Equipment Needed**: slider   
+- Box Pistol Squat | 0.0 pounds    | 12 reps/side   
+**Muscle Groups**:  quadriceps, gluteus_maximus, ankle_stabilizers   
+**Equipment Needed**: plyo_box   
 
 ## Leave a Comment
 
-Note, I use [Remarkbox](https://www.remarkbox.com/) for comments to prevent Disqus from showing adds or other methods requiring a GitHub login for participation in any discussions. Although you are asked for you email, there is no need to verify it through remarkbox in order to leave a comment. Verification is just so you can track discussions, etc. without the system treating you as a new person every time.  
+Note, I use [Remarkbox](https://www.remarkbox.com/) for comments to prevent Disqus from showing ads or other methods requiring a GitHub login for participation in any discussions. Although you are asked for you email, there is no need to verify it through remarkbox in order to leave a comment. Verification is just so you can track discussions, etc. without the system treating you as a new person every time.  
 
 <!-- Remarkbox - Your readers want to communicate with you -->
 <div id="remarkbox-div">
