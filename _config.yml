@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Workouts"
-subtitle: "Automaticlly Generated Workout Plans"
+subtitle: "Automatically Generated Workout Plans"
 email: hunsakerconsulting@gmail.com
 description: >-
-    Automaticlly Generated Workout Plans
+    Automatically Generated Workout Plans
 url: https://github.io/mrhunsaker/workout_generator
 copyright: "TVI Resources"
 github_username: mrhunsaker

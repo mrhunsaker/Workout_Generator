@@ -86,6 +86,7 @@ EXCEPTIONS_FILE: str = "exceptions.csv"
 DEFAULT_WEIGHT_INCREMENT: float = 2.5 
 SET_TYPES: List[str] = ["regular", "ladder", "amsap"]
 TIME_CAPS: Dict[str, int] = {"regular": 20, "ladder": 30, "amsap": 30}
+RUNNING_FILE: str = "running.json"
 
 # Define valid workout combinations (full workout)
 # Each sub-list represents a sequence of set types for a single day.
@@ -112,6 +113,16 @@ TYPICAL_ROUNDS: Dict[str, int] = {
     "ladder": 7,
     "amsap": 10  
 } # Representative averages for a 30-minute block
+
+RUNNING_FILE: str = "running.json"
+
+def load_running() -> List[Dict[str, Any]]:
+    """Load the running exercises from the local JSON file."""
+    path: Path = Path(RUNNING_FILE)
+    if path.exists():
+        data = json.loads(path.read_text())
+        return data.get("exercises", [])
+    return []
 
 def apply_weight_progression(library_file: str, increment: float) -> bool:
     """
@@ -240,7 +251,7 @@ def render_json(week: List[Dict[str, Any]]) -> str:
     for day in week:
         for s in day["sets"]:
             set_type: str = s["set_type"]
-            rounds: int = TYPICAL_ROUNDS.get(set_type, 0) # Assign automated rounds
+            rounds: int = 1 if set_type == "running" else TYPICAL_ROUNDS.get(set_type, 0) # Assign automated rounds
             for ex in s["exercises"]:
                 rows.append({
                     "day": day["day"],
@@ -316,7 +327,8 @@ def generate(exercises: List[Dict[str, Any]],
              previous: List[Dict[str, Any]], 
              days: int, 
              sets_per_day: int, 
-             short_workout: bool = False) -> List[Dict[str, Any]]:
+             short_workout: bool = False,
+             add_run: bool = False) -> List[Dict[str, Any]]:
     """
     Orchestrates the creation of a multi-day training program.
 
@@ -326,9 +338,14 @@ def generate(exercises: List[Dict[str, Any]],
     is updated during generation using the round-based multiplier.
     """
     fatigue: Dict[Union[str, int], float] = fatigue_map(previous)
+    running_pool = load_running() if add_run else [] # Load running data
     week: List[Dict[str, Any]] = []
+
     combinations: List[List[str]] = VALID_COMBINATIONS_SHORT if short_workout else VALID_COMBINATIONS_FULL
     
+    # Determine running duration based on --short flag
+    run_duration = 30 if short_workout else 60
+
     for d in range(1, days + 1):
         used: Set[Union[str, int]] = set()
         day_struct: Dict[str, Any] = {"day": d, "sets": []}
@@ -352,6 +369,15 @@ def generate(exercises: List[Dict[str, Any]],
                 "round_scheme": "AMSAP" if st == "amsap" else "10-1 ladder" if st == "ladder" else "5 rounds",
                 "exercises": [upper, lower, core]
             })
+
+        if add_run and running_pool:
+                    run_ex = random.choice(running_pool)
+                    day_struct["sets"].append({
+                        "set_type": "running",
+                        "time_cap_min": run_duration,
+                        "round_scheme": "f'{run_duration} Minutes'",
+                        "exercises": [run_ex]
+                    })
         week.append(day_struct)
     return week
 
@@ -382,20 +408,29 @@ def render_md(week: List[Dict[str, Any]], generated_date: Optional[date] = None)
         for i, s in enumerate(day["sets"], 1):
             out.append(f"### Set {i} — {s['set_type'].upper()}")
 
-            # Provide checkboxes for tracking progress during the workout.
+            # Checkboxes based on set type
             if s['set_type'] == 'regular':
                 out.append(f"**{s['round_scheme'].upper()}**: 5 ☐ 4 ☐ 3 ☐ 2 ☐ 1 ☐")
             elif s['set_type'] == 'ladder':
                 out.append(f"**{s['round_scheme'].upper()}**: 10 ☐ 9 ☐ 8 ☐ 7 ☐ 6 ☐ 5 ☐ 4 ☐ 3 ☐ 2 ☐ 1 ☐")
             elif s['set_type'] == 'amsap':
                 out.append(f"**{s['round_scheme'].upper()}**: Repeat this set for 30 minutes. No Need to Count ☐")
+            elif s['set_type'] == 'running':
+                out.append(f"**DURATION**: {s['round_scheme']} ☐")
             
             for ex in s["exercises"]:
-                load_display: str = "Bodyweight" if ex.get("units") == "bodyweight" else f"{ex['default_load']} pounds   "
-                out.append(f"- {ex['name']} | {load_display} | {ex['reps']} {ex['reptype']}   ")
-                out.append(f"**Muscle Groups**:  {', '.join(ex['muscle_groups'])}   ")
-                out.append(f"**Equipment Needed**: {', '.join(ex['equipment'])}   ")
-                out.append("")             
+                if s['set_type'] == 'running':
+                    # Logic for running exercises (Instructions + Equipment)
+                    out.append(f"- **{ex['name']}**")
+                    out.append(f"**Instruction**: {ex['instruction']}   ")
+                    out.append(f"**Equipment Needed**: {', '.join(ex['equipment'])}   ")
+                else:
+                    # Logic for standard resistance exercises
+                    load_display: str = "Bodyweight" if ex.get("units") == "bodyweight" else f"{ex['default_load']} pounds   "
+                    out.append(f"- {ex['name']} | {load_display} | {ex['reps']} {ex['reptype']}   ")
+                    out.append(f"**Muscle Groups**:  {', '.join(ex['muscle_groups'])}   ")
+                    out.append(f"**Equipment Needed**: {', '.join(ex['equipment'])}   ")
+                out.append("")           
     # Append Remarkbox comment widget to the end of rendered Markdown
     remarkbox = """## Leave a Comment
 
@@ -560,6 +595,7 @@ def main() -> None:
     ap.add_argument("--skip", action="store_true", help="Filter exercises using exceptions.csv")
     ap.add_argument("--add-weight", action="store_true", help="Increment weight loads in the library file")
     ap.add_argument("--weight-increment", type=float, default=DEFAULT_WEIGHT_INCREMENT, help="Pounds to add during progression")
+    ap.add_argument("--addrun", action="store_true", help="Add a random running session to the end of each workout")
     args: argparse.Namespace = ap.parse_args()
 
     # Seed randomization for testing or fixed planning.
@@ -581,7 +617,7 @@ def main() -> None:
     # Calculation Phase.
     previous_data: List[Dict[str, Any]] = load_previous()
     week: List[Dict[str, Any]] = generate(
-        exercises, previous_data, args.days, args.sets_per_day, short_workout=args.short
+        exercises, previous_data, args.days, args.sets_per_day, short_workout=args.short,add_run=args.addrun
     )
 
     # Persistence/Export Phase.

@@ -1,0 +1,22 @@
+{
+  "exercises": [
+    {
+      "id": "fartlek-build",
+      "name": "FARTLEK: Build Speed",
+      "instruction": "Run with alternating fast and slow sections. For example, run hard for 6 minutes, then jog for 4 minutes, repeated for a total of 60 minutes.",
+      "equipment": ["outdoors", "manual treadmill", "flat treadmill"]
+    },
+    {
+      "id": "fartlek-steady",
+      "name": "FARTLEK: Steady",
+      "instruction": "Run with alternating fast and slow sections. For example, do a steady jog for 6 minutes, then walk briskly for 4 minutes, repeated for a total of 60 minutes.",
+      "equipment": ["outdoors", "manual treadmill", "flat treadmill"]
+    },
+    {
+      "id": "tempo",
+      "name": "Tempo",
+      "instruction": "Run at a challenging but sustainable pace for the entire duration, typically maintaining a pace slightly faster than your 5K race pace.",
+      "equipment": ["outdoors", "manual treadmill", "flat treadmill"]
+    }
+  ]
+}
