@@ -24,8 +24,17 @@
       "weight_bench"
     ],
     "exclusion": [
+      "box_pistol_squat",
+      "box_squat",
+      "curtsy_squat",
+      "forward_lunge",
+      "goblet_front_squat",
+      "jump_squat",
       "lunge",
-      "step_up"
+      "reverse_lunge",
+      "split_squat",
+      "step_up",
+      "sumo_squat"
     ],
     "default_load": 10.0,
     "units": "pounds",
@@ -57,8 +66,14 @@
       "dumbbell"
     ],
     "exclusion": [
-      "jump_squat",
+      "box_pistol_squat",
       "box_squat",
+      "bulgarian_split_squat",
+      "curtsy_squat",
+      "forward_lunge",
+      "jump_squat",
+      "reverse_lunge",
+      "split_squat",
       "sumo_squat"
     ],
     "default_load": 10.0,
@@ -86,10 +101,18 @@
     ],
     "ladder_eligible": true,
     "ground_or_standing": "standing",
-    "equipment": ["none"],
+    "equipment": [
+      "none"
+    ],
     "exclusion": [
-      "goblet_front_squat",
+      "box_pistol_squat",
       "box_squat",
+      "bulgarian_split_squat",
+      "curtsy_squat",
+      "forward_lunge",
+      "goblet_front_squat",
+      "reverse_lunge",
+      "split_squat",
       "sumo_squat"
     ],
     "default_load": 0.0,
@@ -120,9 +143,15 @@
       "dumbbell"
     ],
     "exclusion": [
+      "box_pistol_squat",
+      "box_squat",
+      "bulgarian_split_squat",
+      "curtsy_squat",
+      "forward_lunge",
       "goblet_front_squat",
       "jump_squat",
-      "box_squat"
+      "reverse_lunge",
+      "split_squat"
     ],
     "default_load": 10.0,
     "units": "pounds",
@@ -151,7 +180,8 @@
       "resistance_bands"
     ],
     "exclusion": [
-      "calf_raises_single"
+      "calf_raises_single",
+      "lateral_raises"
     ],
     "default_load": 0.0,
     "units": "bodyweight",
@@ -175,9 +205,12 @@
     ],
     "ladder_eligible": true,
     "ground_or_standing": "standing",
-    "equipment": ["none"],
+    "equipment": [
+      "none"
+    ],
     "exclusion": [
-      "calf_raises"
+      "calf_raises",
+      "lateral_raises"
     ],
     "default_load": 0.0,
     "units": "bodyweight",
@@ -205,7 +238,17 @@
     "equipment": [
       "dumbbell"
     ],
-    "exclusion": ["none"],
+    "exclusion": [
+      "box_pistol_squat",
+      "box_squat",
+      "bulgarian_split_squat",
+      "forward_lunge",
+      "goblet_front_squat",
+      "jump_squat",
+      "reverse_lunge",
+      "split_squat",
+      "sumo_squat"
+    ],
     "default_load": 10.0,
     "units": "pounds",
     "reptype": "reps/side",
@@ -232,7 +275,10 @@
     "equipment": [
       "dumbbell"
     ],
-    "exclusion": ["none"],
+    "exclusion": [
+      "forward_lunge",
+      "reverse_lunge"
+    ],
     "default_load": 10.0,
     "units": "pounds",
     "reptype": "reps/side",
@@ -259,8 +305,17 @@
       "dumbbell"
     ],
     "exclusion": [
+      "box_pistol_squat",
+      "box_squat",
       "bulgarian_split_squat",
-      "step_up"
+      "curtsy_squat",
+      "goblet_front_squat",
+      "jump_squat",
+      "reverse_lunge",
+      "side_lunge",
+      "split_squat",
+      "step_up",
+      "sumo_squat"
     ],
     "default_load": 10.0,
     "units": "pounds",
@@ -288,9 +343,17 @@
       "dumbbell"
     ],
     "exclusion": [
+      "box_pistol_squat",
+      "box_squat",
       "bulgarian_split_squat",
+      "curtsy_squat",
+      "forward_lunge",
+      "goblet_front_squat",
+      "jump_squat",
+      "side_lunge",
+      "split_squat",
       "step_up",
-      "forward_lunge"
+      "sumo_squat"
     ],
     "default_load": 10.0,
     "units": "pounds",
@@ -319,8 +382,23 @@
       "dumbbell"
     ],
     "exclusion": [
+      "box_pistol_squat",
+      "box_squat",
+      "bridge_toe_taps",
+      "bridge_yoga_ball_feet",
       "bulgarian_split_squat",
-      "lunge"
+      "curtsy_squat",
+      "floor_high_plank",
+      "floor_low_plank",
+      "goblet_front_squat",
+      "hip_thruster",
+      "jump_squat",
+      "lunge",
+      "plank_yoga_ball",
+      "split_squat",
+      "sumo_squat",
+      "tricep_press",
+      "yoga_ball_plank_back_forth"
     ],
     "default_load": 0.0,
     "units": "pounds",
@@ -349,8 +427,14 @@
       "dumbbell"
     ],
     "exclusion": [
+      "box_pistol_squat",
+      "bulgarian_split_squat",
+      "curtsy_squat",
+      "forward_lunge",
       "goblet_front_squat",
       "jump_squat",
+      "reverse_lunge",
+      "split_squat",
       "sumo_squat"
     ],
     "default_load": 10.0,
@@ -378,7 +462,15 @@
     "equipment": [
       "weight_bench"
     ],
-    "exclusion": ["none"],
+    "exclusion": [
+      "floor_high_plank",
+      "floor_low_plank",
+      "plank_yoga_ball",
+      "side_plank",
+      "weighted_side_bend",
+      "yoga_ball_plank_back_forth",
+      "yoga_ball_plank_circles"
+    ],
     "default_load": 0.0,
     "units": "bodyweight",
     "reptype": "reps/side",
@@ -404,7 +496,16 @@
     "equipment": [
       "dumbbell"
     ],
-    "exclusion": ["none"],
+    "exclusion": [
+      "copenhagen_plank",
+      "floor_high_plank",
+      "floor_low_plank",
+      "march_in_place_strap",
+      "russian_twist",
+      "side_plank",
+      "yoga_ball_plank_back_forth",
+      "yoga_ball_plank_circles"
+    ],
     "default_load": 5.0,
     "units": "pounds",
     "reptype": "reps/side",
@@ -430,7 +531,7 @@
     "equipment": [
       "dumbbell"
     ],
-    "exclusion": ["none"],
+    "exclusion": [],
     "default_load": 10.0,
     "units": "pounds",
     "reptype": "reps/side",
@@ -453,8 +554,10 @@
     ],
     "ladder_eligible": false,
     "ground_or_standing": "standing",
-    "equipment": ["none"],
-    "exclusion": ["none"],
+    "equipment": [
+      "none"
+    ],
+    "exclusion": [],
     "default_load": 0.0,
     "units": "pounds",
     "reptype": "reps/side",
@@ -480,7 +583,7 @@
     "equipment": [
       "dumbbell"
     ],
-    "exclusion": ["none"],
+    "exclusion": [],
     "default_load": 10.0,
     "units": "pounds",
     "reptype": "reps",
@@ -507,7 +610,7 @@
     "equipment": [
       "dumbbell"
     ],
-    "exclusion": ["none"],
+    "exclusion": [],
     "default_load": 3.25,
     "units": "pounds",
     "reptype": "reps",
@@ -534,7 +637,7 @@
     "equipment": [
       "dumbbell"
     ],
-    "exclusion": ["none"],
+    "exclusion": [],
     "default_load": 10.0,
     "units": "pounds",
     "reptype": "reps/side",
@@ -562,7 +665,11 @@
     "equipment": [
       "dumbbell"
     ],
-    "exclusion": ["none"],
+    "exclusion": [
+      "hamstring_slider_curl",
+      "hamstring_slider_curl_Single_Leg",
+      "hamstring_yoga_ball_curl"
+    ],
     "default_load": 10.0,
     "units": "pounds",
     "reptype": "reps/side",
@@ -587,7 +694,10 @@
     "equipment": [
       "dumbbell"
     ],
-    "exclusion": ["none"],
+    "exclusion": [
+      "calf_raises",
+      "calf_raises_single"
+    ],
     "default_load": 10.0,
     "units": "pounds",
     "reptype": "reps/side",
@@ -612,8 +722,13 @@
     ],
     "ladder_eligible": true,
     "ground_or_standing": "ground",
-    "equipment": ["none"],
-    "exclusion": ["none"],
+    "equipment": [
+      "none"
+    ],
+    "exclusion": [
+      "arnold_press",
+      "dumbbell_press"
+    ],
     "default_load": 0.0,
     "units": "bodyweight",
     "reptype": "reps",
@@ -640,7 +755,9 @@
     "equipment": [
       "resistance_band"
     ],
-    "exclusion": ["none"],
+    "exclusion": [
+      "heel_walk"
+    ],
     "default_load": 0.0,
     "units": "pounds",
     "reptype": "seconds",
@@ -666,7 +783,11 @@
     "equipment": [
       "resistance_band"
     ],
-    "exclusion": ["none"],
+    "exclusion": [
+      "russian_twist",
+      "shoulder_rotation",
+      "yoga_ball_plank_circles"
+    ],
     "default_load": 0.0,
     "units": "bodyweight",
     "reptype": "seconds",
@@ -693,7 +814,19 @@
     "equipment": [
       "yoga_ball"
     ],
-    "exclusion": ["none"],
+    "exclusion": [
+      "bridge_toe_taps",
+      "bridge_yoga_ball_feet",
+      "copenhagen_plank",
+      "floor_high_plank",
+      "floor_low_plank",
+      "hip_thruster",
+      "side_plank",
+      "step_up",
+      "tricep_press",
+      "yoga_ball_plank_back_forth",
+      "yoga_ball_plank_circles"
+    ],
     "default_load": 0.0,
     "units": "bodyweight",
     "reptype": "seconds",
@@ -722,6 +855,7 @@
       "slider"
     ],
     "exclusion": [
+      "hammer_curls",
       "hamstring_slider_curl_Single_Leg",
       "hamstring_yoga_ball_curl"
     ],
@@ -753,6 +887,7 @@
       "slider"
     ],
     "exclusion": [
+      "hammer_curls",
       "hamstring_slider_curl",
       "hamstring_yoga_ball_curl"
     ],
@@ -784,6 +919,7 @@
       "yoga_ball"
     ],
     "exclusion": [
+      "hammer_curls",
       "hamstring_slider_curl",
       "hamstring_slider_curl_Single_Leg"
     ],
@@ -809,8 +945,19 @@
     ],
     "ladder_eligible": true,
     "ground_or_standing": "ground",
-    "equipment": ["none"],
-    "exclusion": ["none"],
+    "equipment": [
+      "none"
+    ],
+    "exclusion": [
+      "bridge_yoga_ball_feet",
+      "floor_high_plank",
+      "floor_low_plank",
+      "hip_thruster",
+      "plank_yoga_ball",
+      "step_up",
+      "tricep_press",
+      "yoga_ball_plank_back_forth"
+    ],
     "default_load": 0.0,
     "units": "bodyweight",
     "reptype": "seconds",
@@ -838,7 +985,10 @@
       "dumbbell"
     ],
     "exclusion": [
-      "elbow_out_row"
+      "elbow_out_row",
+      "narrow_upwards_row",
+      "upwards_row",
+      "wide_upwards_row"
     ],
     "default_load": 10.0,
     "units": "pounds",
@@ -865,7 +1015,7 @@
     "equipment": [
       "dumbbell"
     ],
-    "exclusion": ["none"],
+    "exclusion": [],
     "default_load": 10.0,
     "units": "pounds",
     "reptype": "reps/side",
@@ -893,7 +1043,10 @@
       "dumbbell"
     ],
     "exclusion": [
-      "standing_row"
+      "narrow_upwards_row",
+      "standing_row",
+      "upwards_row",
+      "wide_upwards_row"
     ],
     "default_load": 10.0,
     "units": "pounds",
@@ -922,7 +1075,16 @@
       "yoga_ball"
     ],
     "exclusion": [
+      "bridge_toe_taps",
+      "bridge_yoga_ball_feet",
+      "copenhagen_plank",
+      "floor_high_plank",
+      "floor_low_plank",
+      "hip_thruster",
       "plank_yoga_ball",
+      "side_plank",
+      "step_up",
+      "tricep_press",
       "yoga_ball_plank_circles"
     ],
     "default_load": 0.0,
@@ -953,7 +1115,14 @@
       "yoga_ball"
     ],
     "exclusion": [
+      "copenhagen_plank",
+      "floor_high_plank",
+      "floor_low_plank",
+      "march_in_place_strap",
       "plank_yoga_ball",
+      "russian_twist",
+      "shoulder_rotation",
+      "side_plank",
       "yoga_ball_plank_back_forth"
     ],
     "default_load": 0.0,
@@ -981,7 +1150,7 @@
     "equipment": [
       "cones"
     ],
-    "exclusion": ["none"],
+    "exclusion": [],
     "default_load": 0.0,
     "units": "bodyweight",
     "reptype": "reps/side",
@@ -1008,7 +1177,11 @@
       "dumbbell",
       "medicine_ball"
     ],
-    "exclusion": ["none"],
+    "exclusion": [
+      "march_in_place_strap",
+      "shoulder_rotation",
+      "yoga_ball_plank_circles"
+    ],
     "default_load": 10.0,
     "units": "pounds",
     "reptype": "reps",
@@ -1037,7 +1210,7 @@
     "equipment": [
       "dumbbell"
     ],
-    "exclusion": ["none"],
+    "exclusion": [],
     "default_load": 10.0,
     "units": "pounds",
     "reptype": "reps/side",
@@ -1066,7 +1239,10 @@
       "dumbbell"
     ],
     "exclusion": [
-      "dumbbell_press"
+      "butterfly_press",
+      "dumbbell_press",
+      "push_up",
+      "tricep_press"
     ],
     "default_load": 10.0,
     "units": "pounds",
@@ -1096,7 +1272,14 @@
       "weight_bench"
     ],
     "exclusion": [
-      "bridge_toe_taps"
+      "bridge_toe_taps",
+      "bridge_yoga_ball_feet",
+      "floor_high_plank",
+      "floor_low_plank",
+      "plank_yoga_ball",
+      "step_up",
+      "tricep_press",
+      "yoga_ball_plank_back_forth"
     ],
     "default_load": 10.0,
     "units": "pounds",
@@ -1124,8 +1307,16 @@
       "dumbbell"
     ],
     "exclusion": [
+      "box_pistol_squat",
+      "box_squat",
       "bulgarian_split_squat",
-      "lunge"
+      "curtsy_squat",
+      "forward_lunge",
+      "goblet_front_squat",
+      "jump_squat",
+      "lunge",
+      "reverse_lunge",
+      "sumo_squat"
     ],
     "default_load": 10.0,
     "units": "pounds",
@@ -1154,7 +1345,7 @@
     "equipment": [
       "dumbbell"
     ],
-    "exclusion": ["none"],
+    "exclusion": [],
     "default_load": 10.0,
     "units": "pounds",
     "reptype": "reps/side",
@@ -1176,8 +1367,12 @@
     ],
     "ladder_eligible": false,
     "ground_or_standing": "standing",
-    "equipment": ["none"],
-    "exclusion": ["none"],
+    "equipment": [
+      "none"
+    ],
+    "exclusion": [
+      "clam_walk_strap"
+    ],
     "default_load": 0.0,
     "units": "bodyweight",
     "reptype": "seconds",
@@ -1206,8 +1401,10 @@
       "weight_bench"
     ],
     "exclusion": [
+      "arnold_press",
+      "butterfly_press",
       "push_up",
-      "butterfly_press"
+      "tricep_press"
     ],
     "default_load": 10.0,
     "units": "pounds",
@@ -1235,7 +1432,9 @@
       "weight_bench"
     ],
     "exclusion": [
-      "dumbbell_press"
+      "arnold_press",
+      "dumbbell_press",
+      "tricep_press"
     ],
     "default_load": 10.0,
     "units": "pounds",
@@ -1262,7 +1461,19 @@
     "equipment": [
       "dumbbell"
     ],
-    "exclusion": ["none"],
+    "exclusion": [
+      "arnold_press",
+      "bridge_toe_taps",
+      "bridge_yoga_ball_feet",
+      "butterfly_press",
+      "dumbbell_press",
+      "floor_high_plank",
+      "floor_low_plank",
+      "hip_thruster",
+      "plank_yoga_ball",
+      "step_up",
+      "yoga_ball_plank_back_forth"
+    ],
     "default_load": 10.0,
     "units": "pounds",
     "reptype": "reps",
@@ -1290,8 +1501,10 @@
       "dumbbell"
     ],
     "exclusion": [
-      "wide_upwards_row",
-      "upwards_row"
+      "elbow_out_row",
+      "standing_row",
+      "upwards_row",
+      "wide_upwards_row"
     ],
     "default_load": 10.0,
     "units": "pounds",
@@ -1319,7 +1532,9 @@
       "dumbbell"
     ],
     "exclusion": [
+      "elbow_out_row",
       "narrow_upwards_row",
+      "standing_row",
       "upwards_row"
     ],
     "default_load": 10.0,
@@ -1348,7 +1563,9 @@
       "dumbbell"
     ],
     "exclusion": [
+      "elbow_out_row",
       "narrow_upwards_row",
+      "standing_row",
       "wide_upwards_row"
     ],
     "default_load": 10.0,
@@ -1374,10 +1591,17 @@
     ],
     "ladder_eligible": true,
     "ground_or_standing": "ground",
-    "equipment": ["none"],
+    "equipment": [
+      "none"
+    ],
     "exclusion": [
+      "copenhagen_plank",
+      "floor_high_plank",
+      "floor_low_plank",
+      "plank_yoga_ball",
       "weighted_side_bend",
-      "copenhagen_plank"
+      "yoga_ball_plank_back_forth",
+      "yoga_ball_plank_circles"
     ],
     "default_load": 0.0,
     "units": "bodyweight",
@@ -1407,8 +1631,15 @@
       "plyo_box"
     ],
     "exclusion": [
+      "box_squat",
       "bulgarian_split_squat",
-      "box_squat"
+      "curtsy_squat",
+      "forward_lunge",
+      "goblet_front_squat",
+      "jump_squat",
+      "reverse_lunge",
+      "split_squat",
+      "sumo_squat"
     ],
     "default_load": 0.0,
     "units": "pounds",
@@ -1440,7 +1671,13 @@
     ],
     "exclusion": [
       "bridge_toe_taps",
-      "hip_thruster"
+      "floor_high_plank",
+      "floor_low_plank",
+      "hip_thruster",
+      "plank_yoga_ball",
+      "step_up",
+      "tricep_press",
+      "yoga_ball_plank_back_forth"
     ],
     "default_load": 0.0,
     "units": "bodyweight",
@@ -1465,10 +1702,21 @@
     ],
     "ladder_eligible": true,
     "ground_or_standing": "ground",
-    "equipment": ["none"],
+    "equipment": [
+      "none"
+    ],
     "exclusion": [
+      "bridge_toe_taps",
+      "bridge_yoga_ball_feet",
+      "copenhagen_plank",
       "floor_high_plank",
-      "plank_yoga_ball"
+      "hip_thruster",
+      "plank_yoga_ball",
+      "side_plank",
+      "step_up",
+      "tricep_press",
+      "yoga_ball_plank_back_forth",
+      "yoga_ball_plank_circles"
     ],
     "default_load": 0.0,
     "units": "bodyweight",
@@ -1495,10 +1743,22 @@
     ],
     "ladder_eligible": true,
     "ground_or_standing": "ground",
-    "equipment": ["none"],
+    "equipment": [
+      "none"
+    ],
     "exclusion": [
+      "bridge_toe_taps",
+      "bridge_yoga_ball_feet",
+      "copenhagen_plank",
       "floor_low_plank",
-      "push_up"
+      "hip_thruster",
+      "plank_yoga_ball",
+      "push_up",
+      "side_plank",
+      "step_up",
+      "tricep_press",
+      "yoga_ball_plank_back_forth",
+      "yoga_ball_plank_circles"
     ],
     "default_load": 0.0,
     "units": "bodyweight",
