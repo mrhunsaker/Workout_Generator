@@ -1,0 +1,250 @@
+# Training Week
+*Generated 2026-01-26*
+
+## Day 1
+### Set 1 — AMSAP
+**AMSAP**: Repeat this set for 30 minutes. No Need to Count ☐
+- Tricep Press | 10.0 pounds    | 12 reps   
+**Muscle Groups**:  triceps   
+**Equipment Needed**: dumbbell   
+
+- Jump Squat | Bodyweight | 12 reps   
+**Muscle Groups**:  quadriceps, gluteus_maximus, calves, hamstrings, core   
+**Equipment Needed**: none   
+
+- Push Up | Bodyweight | 12 reps   
+**Muscle Groups**:  pectoralis_major, triceps, anterior_deltoid   
+**Equipment Needed**: none   
+
+### Set 2 — LADDER
+**10-1 LADDER**: 10 ☐ 9 ☐ 8 ☐ 7 ☐ 6 ☐ 5 ☐ 4 ☐ 3 ☐ 2 ☐ 1 ☐
+- Standing Row | 10.0 pounds    | 12 reps   
+**Muscle Groups**:  latissimus_dorsi, rhomboids, biceps   
+**Equipment Needed**: dumbbell   
+
+- Single Leg Hamstring Curl (Slider) | Bodyweight | 12 reps/side   
+**Muscle Groups**:  hamstrings, gluteus_maximus   
+**Equipment Needed**: slider   
+
+- Side Plank | Bodyweight | 30.0 seconds/side   
+**Muscle Groups**:  obliques, transverse_abdominis, gluteus_medius   
+**Equipment Needed**: none   
+
+## Day 2
+### Set 1 — REGULAR
+**5 ROUNDS**: 5 ☐ 4 ☐ 3 ☐ 2 ☐ 1 ☐
+- Frontline POW Raise | 10.0 pounds    | 12 reps/side   
+**Muscle Groups**:  anterior_deltoid, upper_chest   
+**Equipment Needed**: dumbbell   
+
+- Box Squat | 10.0 pounds    | 12 reps   
+**Muscle Groups**:  quadriceps, gluteus_maximus   
+**Equipment Needed**: plyo_box, dumbbell   
+
+- Yoga Ball Plank Back and Forth | Bodyweight | 30.0 seconds   
+**Muscle Groups**:  rectus_abdominis, transverse_abdominis, shoulder_stabilizers   
+**Equipment Needed**: yoga_ball   
+
+### Set 2 — AMSAP
+**AMSAP**: Repeat this set for 30 minutes. No Need to Count ☐
+- Wide Upwards Row | 10.0 pounds    | 12 reps   
+**Muscle Groups**:  lateral_deltoid, trapezius   
+**Equipment Needed**: dumbbell   
+
+- Calf Raises | Bodyweight | 100 reps   
+**Muscle Groups**:  gastrocnemius, soleus   
+**Equipment Needed**: dumbbell, resistance_bands   
+
+- Hamstring Curl (Yoga Ball) | Bodyweight | 12 reps   
+**Muscle Groups**:  hamstrings, gluteus_maximus   
+**Equipment Needed**: yoga_ball   
+
+### Set 3 — REGULAR
+**5 ROUNDS**: 5 ☐ 4 ☐ 3 ☐ 2 ☐ 1 ☐
+- Rear Delt Fly | 10.0 pounds    | 12 reps/side   
+**Muscle Groups**:  posterior_deltoid   
+**Equipment Needed**: dumbbell   
+
+- Heel Walk | Bodyweight | 30 seconds   
+**Muscle Groups**:  tibialis_anterior   
+**Equipment Needed**: none   
+
+- Turkish Get-Up | 10.0 pounds    | 6 reps/side   
+**Muscle Groups**:  shoulder_stabilizers, glutes, core_stabilizers   
+**Equipment Needed**: dumbbell   
+
+## Day 3
+### Set 1 — REGULAR
+**5 ROUNDS**: 5 ☐ 4 ☐ 3 ☐ 2 ☐ 1 ☐
+- Scapula Setting / Flossing | 0.0 pounds    | 12 reps/side   
+**Muscle Groups**:  scapular_stabilizers   
+**Equipment Needed**: none   
+
+- Box Pistol Squat | 0.0 pounds    | 12 reps/side   
+**Muscle Groups**:  quadriceps, gluteus_maximus, ankle_stabilizers   
+**Equipment Needed**: plyo_box   
+
+- Yoga Ball Plank Circles | Bodyweight | 30.0 seconds   
+**Muscle Groups**:  rectus_abdominis, transverse_abdominis, obliques, shoulder_stabilizers   
+**Equipment Needed**: yoga_ball   
+
+### Set 2 — REGULAR
+**5 ROUNDS**: 5 ☐ 4 ☐ 3 ☐ 2 ☐ 1 ☐
+- Standing Row | 10.0 pounds    | 12 reps   
+**Muscle Groups**:  latissimus_dorsi, rhomboids, biceps   
+**Equipment Needed**: dumbbell   
+
+- Bridge Toe Taps | Bodyweight | 30 seconds   
+**Muscle Groups**:  gluteus_maximus, hamstrings   
+**Equipment Needed**: none   
+
+- Side Lunge | 10.0 pounds    | 12 reps/side   
+**Muscle Groups**:  adductors, gluteus_maximus   
+**Equipment Needed**: dumbbell   
+
+### Set 3 — AMSAP
+**AMSAP**: Repeat this set for 30 minutes. No Need to Count ☐
+- Hammer Curls | 10.0 pounds    | 12 reps/side   
+**Muscle Groups**:  brachialis, biceps_brachii, forearms   
+**Equipment Needed**: dumbbell   
+
+- Romanian Deadlift | 10.0 pounds    | 12 reps/side   
+**Muscle Groups**:  hamstrings, gluteus_maximus, erector_spinae   
+**Equipment Needed**: dumbbell   
+
+- Weighted Side Bend | 10.0 pounds    | 30 reps/side   
+**Muscle Groups**:  obliques, quadratus_lumborum   
+**Equipment Needed**: dumbbell   
+
+## Day 4
+### Set 1 — REGULAR
+**5 ROUNDS**: 5 ☐ 4 ☐ 3 ☐ 2 ☐ 1 ☐
+- Butterfly Press | 10.0 pounds    | 12 reps   
+**Muscle Groups**:  pectoralis_major   
+**Equipment Needed**: dumbbell, weight_bench   
+
+- Heel Walk | Bodyweight | 30 seconds   
+**Muscle Groups**:  tibialis_anterior   
+**Equipment Needed**: none   
+
+- Curtsy Squat | 10.0 pounds    | 12 reps/side   
+**Muscle Groups**:  gluteus_medius, quadriceps   
+**Equipment Needed**: dumbbell   
+
+### Set 2 — AMSAP
+**AMSAP**: Repeat this set for 30 minutes. No Need to Count ☐
+- Elbow Out Row | 10.0 pounds    | 12 reps/side   
+**Muscle Groups**:  posterior_deltoid, rhomboids, upper_trapezius   
+**Equipment Needed**: dumbbell   
+
+- Single Leg Calf Raises | Bodyweight | 50 reps/side   
+**Muscle Groups**:  gastrocnemius, soleus   
+**Equipment Needed**: none   
+
+- Russian Twist | 10.0 pounds    | 12 reps   
+**Muscle Groups**:  obliques, rectus_abdominis   
+**Equipment Needed**: dumbbell, medicine_ball   
+
+### Set 3 — REGULAR
+**5 ROUNDS**: 5 ☐ 4 ☐ 3 ☐ 2 ☐ 1 ☐
+- Shrugs | 10.0 pounds    | 12 reps   
+**Muscle Groups**:  upper_trapezius   
+**Equipment Needed**: dumbbell   
+
+- Bridges with Feet on Yoga Ball | Bodyweight | 60 seconds   
+**Muscle Groups**:  gluteus_maximus, hamstrings, core_stabilizers   
+**Equipment Needed**: yoga_ball   
+
+- Single Leg Hamstring Curl (Slider) | Bodyweight | 12 reps/side   
+**Muscle Groups**:  hamstrings, gluteus_maximus   
+**Equipment Needed**: slider   
+
+## Day 5
+### Set 1 — LADDER
+**10-1 LADDER**: 10 ☐ 9 ☐ 8 ☐ 7 ☐ 6 ☐ 5 ☐ 4 ☐ 3 ☐ 2 ☐ 1 ☐
+- Floor High Plank | Bodyweight | 30.0 seconds   
+**Muscle Groups**:  rectus_abdominis, transverse_abdominis, triceps, shoulder_stabilizers   
+**Equipment Needed**: none   
+
+- Bulgarian Split Squat | 10.0 pounds    | 12 reps/side   
+**Muscle Groups**:  quadriceps, gluteus_maximus, hamstrings, calves   
+**Equipment Needed**: dumbbell, weight_bench, weight_bench   
+
+- Hamstring Curl (Slider) | Bodyweight | 12 reps   
+**Muscle Groups**:  hamstrings, gluteus_maximus   
+**Equipment Needed**: slider   
+
+### Set 2 — REGULAR
+**5 ROUNDS**: 5 ☐ 4 ☐ 3 ☐ 2 ☐ 1 ☐
+- Lateral Raises | 10.0 pounds    | 12 reps/side   
+**Muscle Groups**:  medial_deltoid   
+**Equipment Needed**: dumbbell   
+
+- Turkish Get-Up | 10.0 pounds    | 6 reps/side   
+**Muscle Groups**:  shoulder_stabilizers, glutes, core_stabilizers   
+**Equipment Needed**: dumbbell   
+
+- Clam Walk With Strap | 0.0 pounds    | 30 seconds   
+**Muscle Groups**:  gluteus_medius, gluteus_minimus   
+**Equipment Needed**: resistance_band   
+
+### Set 3 — REGULAR
+**5 ROUNDS**: 5 ☐ 4 ☐ 3 ☐ 2 ☐ 1 ☐
+- Arm PT | 3.25 pounds    | 12 reps   
+**Muscle Groups**:  biceps_brachii, triceps_brachii   
+**Equipment Needed**: dumbbell   
+
+- Single Leg 3 Cone Touch | Bodyweight | 12 reps/side   
+**Muscle Groups**:  gluteus_medius, ankle_stabilizers   
+**Equipment Needed**: cones   
+
+- March in Place With Strap | Bodyweight | 30 seconds   
+**Muscle Groups**:  hip_flexors, obliques   
+**Equipment Needed**: resistance_band   
+
+## Leave a Comment
+
+Note, I use [Remarkbox](https://www.remarkbox.com/) for comments to prevent Disqus from showing ads or other methods requiring a GitHub login for participation in any discussions. Although you are asked for you email, there is no need to verify it through remarkbox in order to leave a comment. Verification is just so you can track discussions, etc. without the system treating you as a new person every time.  
+
+<!-- Remarkbox - Your readers want to communicate with you -->
+<div id="remarkbox-div">
+    <noscript>
+        <iframe id=remarkbox-iframe src="https://my.remarkbox.com/embed?nojs=true&mode=light" style="height:600px;width:100%;border:none!important" tabindex=0></iframe>
+    </noscript>
+</div>
+<script src="https://my.remarkbox.com/static/js/iframe-resizer/iframeResizer.min.js"></script>
+<script>
+    var rb_owner_key = "9f6d3e72-e739-11f0-b88e-040140774501";
+    var thread_uri = window.location.href;
+    var thread_title = window.document.title;
+    var thread_fragment = window.location.hash;
+
+    // rb owner was here.
+    var rb_src = "https://my.remarkbox.com/embed" +
+            "?rb_owner_key=" + rb_owner_key +
+            "&thread_title=" + encodeURI(thread_title) +
+            "&thread_uri=" + encodeURIComponent(thread_uri) +
+            "&mode=light" +
+            thread_fragment;
+
+    function create_remarkbox_iframe() {
+        var ifrm = document.createElement("iframe");
+        ifrm.setAttribute("id", "remarkbox-iframe");
+        ifrm.setAttribute("scrolling", "no");
+        ifrm.setAttribute("src", rb_src);
+        ifrm.setAttribute("frameborder", "0");
+        ifrm.setAttribute("tabindex", "0");
+        ifrm.setAttribute("title", "Remarkbox");
+        ifrm.style.width = "100%";
+        document.getElementById("remarkbox-div").appendChild(ifrm);
+    }
+    create_remarkbox_iframe();
+    iFrameResize(
+        {
+            checkOrigin: ["https://my.remarkbox.com"],
+            inPageLinks: true,
+            initCallback: function(e) {e.iFrameResizer.moveToAnchor(thread_fragment)}
+        },
+        document.getElementById("remarkbox-iframe")
+    );
+</script>
