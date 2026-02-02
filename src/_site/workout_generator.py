@@ -212,14 +212,17 @@ def apply_exceptions(exercises: List[Dict[str, Any]], exceptions: Dict[str, str]
     """
     if not exceptions:
         return exercises
-    
+
     filtered: List[Dict[str, Any]] = []
     for ex in exercises:
-        if ex['name'] in exceptions:
-            print(f"Excluding: {ex['name']} (replacement: {exceptions[ex['name']]})")
+        # Match either on the exercise `id` or the human `name` to be flexible
+        key_match = ex.get('id') in exceptions or ex.get('name') in exceptions
+        if key_match:
+            key = ex.get('id') if ex.get('id') in exceptions else ex.get('name')
+            print(f"Excluding: {ex['id']} (replacement: {exceptions.get(key)})")
             continue
         filtered.append(ex)
-    
+
     return filtered
 
 def fatigue_map(previous: List[Dict[str, Any]]) -> Dict[Union[str, int], float]:
@@ -262,7 +265,7 @@ def render_json(week: List[Dict[str, Any]]) -> str:
                 })
     return json.dumps(rows, indent=2)
 
-def select(pool: List[Dict[str, Any]], used: Set[Union[str, int]], fatigue: Dict[Union[str, int], float]) -> Dict[str, Any]:
+def select(pool: List[Dict[str, Any]], used: Set[Union[str, int]], fatigue: Dict[Union[str, int], float], day_excluded: Optional[Set[Union[str, int]]] = None) -> Dict[str, Any]:
     """
     Selects the next exercise using a fatigue-weighted randomized approach.
 
@@ -293,7 +296,10 @@ def select(pool: List[Dict[str, Any]], used: Set[Union[str, int]], fatigue: Dict
     ValueError
         If the candidate pool is empty after applying filters.
     """
-    available: List[Dict[str, Any]] = [e for e in pool if e["id"] not in used]
+    if day_excluded is None:
+        day_excluded = set()
+
+    available: List[Dict[str, Any]] = [e for e in pool if e["id"] not in used and e["id"] not in day_excluded]
     if not available:
         raise ValueError("Pool exhausted for selection. Check library size or region filters.")
     
@@ -349,13 +355,26 @@ def generate(exercises: List[Dict[str, Any]],
     for d in range(1, days + 1):
         used: Set[Union[str, int]] = set()
         day_struct: Dict[str, Any] = {"day": d, "sets": []}
+        day_excluded: Set[Union[str, int]] = set()
         selected_combination: List[str] = random.choice(combinations)
         
         for st in selected_combination:
             ladder_only: bool = st in ["ladder", "amsap"]
-            upper: Dict[str, Any] = select(region_filter(exercises, "upper", ladder_only), used, fatigue)
-            lower: Dict[str, Any] = select(region_filter(exercises, "lower", ladder_only), used, fatigue)
-            core: Dict[str, Any] = select(region_filter(exercises, "core", ladder_only), used, fatigue)
+            upper: Dict[str, Any] = select(region_filter(exercises, "upper", ladder_only), used, fatigue, day_excluded)
+            # update day-level exclusions from chosen exercise
+            day_excluded.add(upper["id"])
+            for exid in upper.get("exclusion", []):
+                day_excluded.add(exid)
+
+            lower: Dict[str, Any] = select(region_filter(exercises, "lower", ladder_only), used, fatigue, day_excluded)
+            day_excluded.add(lower["id"])
+            for exid in lower.get("exclusion", []):
+                day_excluded.add(exid)
+
+            core: Dict[str, Any] = select(region_filter(exercises, "core", ladder_only), used, fatigue, day_excluded)
+            day_excluded.add(core["id"])
+            for exid in core.get("exclusion", []):
+                day_excluded.add(exid)
             
             # Apply multiplier in real-time
             rounds: int = TYPICAL_ROUNDS.get(st, 0)
@@ -518,6 +537,7 @@ def write_post_copy(md_text: str, start_date: date, posts_dir: Optional[str] = N
         "---",
         f'title: "Workout for week starting {start_date.strftime("%Y-%m-%d")}"',
         'excerpt_separator: "<!--more-->"',
+        f'permalink: /blog/workout/{start_date.strftime("%Y-%m-%d")}/',
         f"date: {start_date.strftime('%Y-%m-%d')}",
         "toc: true",
         "categories:",
