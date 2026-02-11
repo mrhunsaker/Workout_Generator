@@ -3,83 +3,83 @@
     "day": 1,
     "exercise_id": "wide_upwards_row",
     "exercise_name": "Wide Upwards Row",
-    "set_type": "ladder",
-    "completed_rounds": 7
-  },
-  {
-    "day": 1,
-    "exercise_id": "jump_squat",
-    "exercise_name": "Jump Squat",
-    "set_type": "ladder",
-    "completed_rounds": 7
-  },
-  {
-    "day": 1,
-    "exercise_id": "yoga_ball_plank_back_forth",
-    "exercise_name": "Yoga Ball Plank Back and Forth",
-    "set_type": "ladder",
-    "completed_rounds": 7
-  },
-  {
-    "day": 1,
-    "exercise_id": "frontline_pow_raise",
-    "exercise_name": "Frontline POW Raise",
     "set_type": "amsap",
     "completed_rounds": 10
+  },
+  {
+    "day": 1,
+    "exercise_id": "forward_lunge",
+    "exercise_name": "Forward Lunge",
+    "set_type": "amsap",
+    "completed_rounds": 10
+  },
+  {
+    "day": 1,
+    "exercise_id": "side_plank",
+    "exercise_name": "Side Plank",
+    "set_type": "amsap",
+    "completed_rounds": 10
+  },
+  {
+    "day": 1,
+    "exercise_id": "dumbbell_press",
+    "exercise_name": "Dumbbell Press",
+    "set_type": "ladder",
+    "completed_rounds": 7
   },
   {
     "day": 1,
     "exercise_id": "hamstring_yoga_ball_curl",
     "exercise_name": "Hamstring Curl (Yoga Ball)",
-    "set_type": "amsap",
-    "completed_rounds": 10
+    "set_type": "ladder",
+    "completed_rounds": 7
   },
   {
     "day": 1,
+    "exercise_id": "russian_twist",
+    "exercise_name": "Russian Twist",
+    "set_type": "ladder",
+    "completed_rounds": 7
+  },
+  {
+    "day": 2,
+    "exercise_id": "hammer_curls",
+    "exercise_name": "Hammer Curls",
+    "set_type": "ladder",
+    "completed_rounds": 7
+  },
+  {
+    "day": 2,
+    "exercise_id": "step_up",
+    "exercise_name": "Step-Up",
+    "set_type": "ladder",
+    "completed_rounds": 7
+  },
+  {
+    "day": 2,
+    "exercise_id": "yoga_ball_plank_circles",
+    "exercise_name": "Yoga Ball Plank Circles",
+    "set_type": "ladder",
+    "completed_rounds": 7
+  },
+  {
+    "day": 2,
+    "exercise_id": "upwards_row",
+    "exercise_name": "Upwards Row",
+    "set_type": "amsap",
+    "completed_rounds": 10
+  },
+  {
+    "day": 2,
+    "exercise_id": "reverse_lunge",
+    "exercise_name": "Reverse Lunge",
+    "set_type": "amsap",
+    "completed_rounds": 10
+  },
+  {
+    "day": 2,
     "exercise_id": "push_up",
     "exercise_name": "Push Up",
-    "set_type": "amsap",
-    "completed_rounds": 10
-  },
-  {
-    "day": 2,
-    "exercise_id": "butterfly_press",
-    "exercise_name": "Butterfly Press",
-    "set_type": "ladder",
-    "completed_rounds": 7
-  },
-  {
-    "day": 2,
-    "exercise_id": "bridge_toe_taps",
-    "exercise_name": "Bridge Toe Taps",
-    "set_type": "ladder",
-    "completed_rounds": 7
-  },
-  {
-    "day": 2,
-    "exercise_id": "hamstring_slider_curl_Single_Leg",
-    "exercise_name": "Single Leg Hamstring Curl (Slider)",
-    "set_type": "ladder",
-    "completed_rounds": 7
-  },
-  {
-    "day": 2,
-    "exercise_id": "rear_delt_fly",
-    "exercise_name": "Rear Delt Fly",
-    "set_type": "amsap",
-    "completed_rounds": 10
-  },
-  {
-    "day": 2,
-    "exercise_id": "sumo_squat",
-    "exercise_name": "Sumo Squat",
-    "set_type": "amsap",
-    "completed_rounds": 10
-  },
-  {
-    "day": 2,
-    "exercise_id": "side_plank",
-    "exercise_name": "Side Plank",
     "set_type": "amsap",
     "completed_rounds": 10
   },
@@ -92,15 +92,15 @@
   },
   {
     "day": 3,
-    "exercise_id": "forward_lunge",
-    "exercise_name": "Forward Lunge",
+    "exercise_id": "goblet_front_squat",
+    "exercise_name": "Front Squat (Goblet)",
     "set_type": "regular",
     "completed_rounds": 5
   },
   {
     "day": 3,
-    "exercise_id": "copenhagen_plank",
-    "exercise_name": "Copenhagen Plank",
+    "exercise_id": "floor_low_plank",
+    "exercise_name": "Floor Low Plank",
     "set_type": "regular",
     "completed_rounds": 5
   },
@@ -113,36 +113,36 @@
   },
   {
     "day": 3,
-    "exercise_id": "romanian_deadlift",
-    "exercise_name": "Romanian Deadlift",
+    "exercise_id": "calf_raises",
+    "exercise_name": "Calf Raises",
     "set_type": "ladder",
     "completed_rounds": 7
   },
   {
     "day": 3,
-    "exercise_id": "russian_twist",
-    "exercise_name": "Russian Twist",
+    "exercise_id": "weighted_side_bend",
+    "exercise_name": "Weighted Side Bend",
     "set_type": "ladder",
     "completed_rounds": 7
   },
   {
     "day": 3,
-    "exercise_id": "lateral_raises",
-    "exercise_name": "Lateral Raises",
+    "exercise_id": "shrugs",
+    "exercise_name": "Shrugs",
     "set_type": "regular",
     "completed_rounds": 5
   },
   {
     "day": 3,
-    "exercise_id": "hip_thruster",
-    "exercise_name": "Hip Thruster",
+    "exercise_id": "heel_walk",
+    "exercise_name": "Heel Walk",
     "set_type": "regular",
     "completed_rounds": 5
   },
   {
     "day": 3,
-    "exercise_id": "clam_walk_strap",
-    "exercise_name": "Clam Walk With Strap",
+    "exercise_id": "turkish_get_up",
+    "exercise_name": "Turkish Get-Up",
     "set_type": "regular",
     "completed_rounds": 5
   },
@@ -155,64 +155,85 @@
   },
   {
     "day": 4,
-    "exercise_id": "hip_thruster",
-    "exercise_name": "Hip Thruster",
+    "exercise_id": "single_leg_3_cone_touch",
+    "exercise_name": "Single Leg 3 Cone Touch",
     "set_type": "regular",
     "completed_rounds": 5
   },
   {
     "day": 4,
-    "exercise_id": "yoga_ball_plank_circles",
-    "exercise_name": "Yoga Ball Plank Circles",
+    "exercise_id": "floor_low_plank",
+    "exercise_name": "Floor Low Plank",
     "set_type": "regular",
     "completed_rounds": 5
   },
   {
     "day": 4,
-    "exercise_id": "elbow_out_row",
-    "exercise_name": "Elbow Out Row",
-    "set_type": "amsap",
-    "completed_rounds": 10
+    "exercise_id": "lateral_raises",
+    "exercise_name": "Lateral Raises",
+    "set_type": "regular",
+    "completed_rounds": 5
   },
   {
     "day": 4,
-    "exercise_id": "goblet_front_squat",
-    "exercise_name": "Front Squat (Goblet)",
-    "set_type": "amsap",
-    "completed_rounds": 10
+    "exercise_id": "box_pistol_squat",
+    "exercise_name": "Box Pistol Squat",
+    "set_type": "regular",
+    "completed_rounds": 5
+  },
+  {
+    "day": 4,
+    "exercise_id": "hamstring_slider_curl_Single_Leg",
+    "exercise_name": "Single Leg Hamstring Curl (Slider)",
+    "set_type": "regular",
+    "completed_rounds": 5
+  },
+  {
+    "day": 4,
+    "exercise_id": "frontline_pow_raise",
+    "exercise_name": "Frontline POW Raise",
+    "set_type": "ladder",
+    "completed_rounds": 7
   },
   {
     "day": 4,
     "exercise_id": "side_lunge",
     "exercise_name": "Side Lunge",
-    "set_type": "amsap",
-    "completed_rounds": 10
+    "set_type": "ladder",
+    "completed_rounds": 7
   },
   {
     "day": 4,
+    "exercise_id": "push_up",
+    "exercise_name": "Push Up",
+    "set_type": "ladder",
+    "completed_rounds": 7
+  },
+  {
+    "day": 5,
     "exercise_id": "arnold_press",
     "exercise_name": "Arnold Press",
     "set_type": "regular",
     "completed_rounds": 5
   },
   {
-    "day": 4,
-    "exercise_id": "turkish_get_up",
-    "exercise_name": "Turkish Get-Up",
-    "set_type": "regular",
-    "completed_rounds": 5
-  },
-  {
-    "day": 4,
-    "exercise_id": "clam_walk_strap",
-    "exercise_name": "Clam Walk With Strap",
+    "day": 5,
+    "exercise_id": "box_squat",
+    "exercise_name": "Box Squat",
     "set_type": "regular",
     "completed_rounds": 5
   },
   {
     "day": 5,
-    "exercise_id": "shrugs",
-    "exercise_name": "Shrugs",
+    "exercise_id": "march_in_place_strap",
+    "exercise_name": "March in Place With Strap",
+    "set_type": "regular",
+    "completed_rounds": 5
+  },
+  {
+    "day": 5,
+    "exercise_id": "scapula_setting",
+    "exercise_name": "Scapula Setting / Flossing",
     "set_type": "regular",
     "completed_rounds": 5
   },
@@ -225,51 +246,30 @@
   },
   {
     "day": 5,
-    "exercise_id": "bridge_yoga_ball_feet",
-    "exercise_name": "Bridges with Feet on Yoga Ball",
+    "exercise_id": "yoga_ball_plank_back_forth",
+    "exercise_name": "Yoga Ball Plank Back and Forth",
     "set_type": "regular",
     "completed_rounds": 5
   },
   {
     "day": 5,
-    "exercise_id": "upwards_row",
-    "exercise_name": "Upwards Row",
+    "exercise_id": "elbow_out_row",
+    "exercise_name": "Elbow Out Row",
     "set_type": "ladder",
     "completed_rounds": 7
   },
   {
     "day": 5,
-    "exercise_id": "bulgarian_split_squat",
-    "exercise_name": "Bulgarian Split Squat",
+    "exercise_id": "hamstring_slider_curl_Single_Leg",
+    "exercise_name": "Single Leg Hamstring Curl (Slider)",
     "set_type": "ladder",
     "completed_rounds": 7
   },
   {
     "day": 5,
-    "exercise_id": "russian_twist",
-    "exercise_name": "Russian Twist",
+    "exercise_id": "side_lunge",
+    "exercise_name": "Side Lunge",
     "set_type": "ladder",
     "completed_rounds": 7
-  },
-  {
-    "day": 5,
-    "exercise_id": "scapula_setting",
-    "exercise_name": "Scapula Setting / Flossing",
-    "set_type": "regular",
-    "completed_rounds": 5
-  },
-  {
-    "day": 5,
-    "exercise_id": "calf_raises",
-    "exercise_name": "Calf Raises",
-    "set_type": "regular",
-    "completed_rounds": 5
-  },
-  {
-    "day": 5,
-    "exercise_id": "turkish_get_up",
-    "exercise_name": "Turkish Get-Up",
-    "set_type": "regular",
-    "completed_rounds": 5
   }
 ]
