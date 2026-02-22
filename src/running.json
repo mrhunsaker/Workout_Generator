@@ -3,20 +3,44 @@
     {
       "id": "fartlek-build",
       "name": "FARTLEK: Build Speed",
-      "instruction": "Run with alternating fast and slow sections. For example, run hard for 6 minutes, then jog for 4 minutes, repeated for a total of 60 minutes.",
-      "equipment": ["outdoors", "manual treadmill", "flat treadmill"]
+      "instruction": "Warm up 5 min easy. Then alternate: 1 min hard effort (RPE 8-9) / 2 min easy jog (RPE 4-5). Increase the hard effort by 30 sec each round until you reach 3 min hard. Cool down 5 min easy. Total ~45-60 min.",
+      "equipment": ["outdoors", "manual treadmill", "flat treadmill"],
+      "category": "fartlek"
     },
     {
       "id": "fartlek-steady",
-      "name": "FARTLEK: Steady",
-      "instruction": "Run with alternating fast and slow sections. For example, do a steady jog for 6 minutes, then walk briskly for 4 minutes, repeated for a total of 60 minutes.",
-      "equipment": ["outdoors", "manual treadmill", "flat treadmill"]
+      "name": "FARTLEK: Steady State",
+      "instruction": "Warm up 5 min easy. Run at a comfortably hard pace (RPE 6-7) for 6 min, then drop to an easy jog for 4 min. Repeat 4-6 rounds. Cool down 5 min easy. Total ~55-65 min.",
+      "equipment": ["outdoors", "manual treadmill", "flat treadmill"],
+      "category": "fartlek"
+    },
+    {
+      "id": "fartlek-sprint",
+      "name": "FARTLEK: Sprint Intervals",
+      "instruction": "Warm up 10 min easy. Sprint at 90-95% effort for 20-30 sec, then walk or jog very easy for 90 sec. Complete 8-12 sprint rounds. Cool down 10 min easy. Total ~35-50 min.",
+      "equipment": ["outdoors", "manual treadmill", "flat treadmill"],
+      "category": "fartlek"
+    },
+    {
+      "id": "fartlek-pyramid",
+      "name": "FARTLEK: Pyramid",
+      "instruction": "Warm up 5 min easy. Hard efforts in pyramid: 1 min, 2 min, 3 min, 4 min, 3 min, 2 min, 1 min — with equal-duration recovery jog between each effort. Cool down 5 min easy. Total ~45 min.",
+      "equipment": ["outdoors", "manual treadmill", "flat treadmill"],
+      "category": "fartlek"
     },
     {
       "id": "tempo",
-      "name": "Tempo",
-      "instruction": "Run at a challenging but sustainable pace for the entire duration, typically maintaining a pace slightly faster than your 5K race pace.",
-      "equipment": ["outdoors", "manual treadmill", "flat treadmill"]
+      "name": "Tempo Run",
+      "instruction": "Warm up 10 min easy. Run at threshold pace (RPE 7-8, able to speak only a few words at a time) for 20-30 min. Cool down 10 min easy. Total ~45-50 min.",
+      "equipment": ["outdoors", "manual treadmill", "flat treadmill"],
+      "category": "tempo"
+    },
+    {
+      "id": "easy-run",
+      "name": "Easy Recovery Run",
+      "instruction": "Run at a fully conversational pace (RPE 4-5) for 30-45 min. Focus on relaxed form and controlled breathing. No need to push pace — this is active recovery.",
+      "equipment": ["outdoors", "manual treadmill", "flat treadmill"],
+      "category": "easy"
     }
   ]
 }

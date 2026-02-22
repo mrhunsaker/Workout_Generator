@@ -1,0 +1,4835 @@
+[
+  {
+    "day": 1,
+    "exercise_id": "tricep_press",
+    "exercise_name": "Tricep Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 1,
+    "exercise_id": "curtsy_squat",
+    "exercise_name": "Curtsy Squat",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 1,
+    "exercise_id": "renegade_row",
+    "exercise_name": "Renegade Row",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 1,
+    "exercise_id": "side_plank_row",
+    "exercise_name": "Side Plank Row",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 1,
+    "exercise_id": "calf_raises_single",
+    "exercise_name": "Single Leg Calf Raises",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 1,
+    "exercise_id": "swiss_ball_core_rotation",
+    "exercise_name": "Swiss Ball Core Rotation",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 1,
+    "exercise_id": "narrow_upwards_row",
+    "exercise_name": "Narrow Upwards Row",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 1,
+    "exercise_id": "clam_walk_strap",
+    "exercise_name": "Clam Walk With Strap",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 1,
+    "exercise_id": "cossack_squat",
+    "exercise_name": "Cossack Squat",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 2,
+    "exercise_id": "turkish_get_up",
+    "exercise_name": "Turkish Get-Up",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 2,
+    "exercise_id": "jump_squat",
+    "exercise_name": "Jump Squat",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 2,
+    "exercise_id": "clam_walk_strap",
+    "exercise_name": "Clam Walk With Strap",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 2,
+    "exercise_id": "lateral_raises",
+    "exercise_name": "Lateral Raises",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 2,
+    "exercise_id": "bridge_toe_taps",
+    "exercise_name": "Bridge Toe Taps",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 2,
+    "exercise_id": "hamstring_yoga_ball_curl",
+    "exercise_name": "Hamstring Curl (Yoga Ball)",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 2,
+    "exercise_id": "arnold_press",
+    "exercise_name": "Arnold Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 2,
+    "exercise_id": "single_leg_3_cone_touch",
+    "exercise_name": "Single Leg 3 Cone Touch",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 2,
+    "exercise_id": "pallof_press",
+    "exercise_name": "Pallof Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 3,
+    "exercise_id": "floor_high_plank",
+    "exercise_name": "Floor High Plank",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 3,
+    "exercise_id": "bulgarian_split_squat",
+    "exercise_name": "Bulgarian Split Squat",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 3,
+    "exercise_id": "renegade_row",
+    "exercise_name": "Renegade Row",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 3,
+    "exercise_id": "butterfly_press",
+    "exercise_name": "Butterfly Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 3,
+    "exercise_id": "calf_raises_single",
+    "exercise_name": "Single Leg Calf Raises",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 3,
+    "exercise_id": "cossack_squat",
+    "exercise_name": "Cossack Squat",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 3,
+    "exercise_id": "narrow_upwards_row",
+    "exercise_name": "Narrow Upwards Row",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 3,
+    "exercise_id": "hamstring_slider_curl",
+    "exercise_name": "Hamstring Curl (Slider)",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 3,
+    "exercise_id": "march_in_place_strap",
+    "exercise_name": "March in Place With Strap",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 4,
+    "exercise_id": "frontline_pow_raise",
+    "exercise_name": "Frontline POW Raise",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 4,
+    "exercise_id": "goblet_front_squat",
+    "exercise_name": "Front Squat (Goblet)",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 4,
+    "exercise_id": "plank_yoga_ball",
+    "exercise_name": "Plank on Yoga Ball",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 4,
+    "exercise_id": "shoulder_rotation",
+    "exercise_name": "Floor Internal / External Rotation",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 4,
+    "exercise_id": "single_leg_3_cone_touch",
+    "exercise_name": "Single Leg 3 Cone Touch",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 4,
+    "exercise_id": "weighted_side_bend",
+    "exercise_name": "Weighted Side Bend",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 4,
+    "exercise_id": "dumbbell_press",
+    "exercise_name": "Dumbbell Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 4,
+    "exercise_id": "romanian_deadlift",
+    "exercise_name": "Romanian Deadlift",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 4,
+    "exercise_id": "clam_walk_strap",
+    "exercise_name": "Clam Walk With Strap",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 5,
+    "exercise_id": "shoulder_rotation",
+    "exercise_name": "Floor Internal / External Rotation",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 5,
+    "exercise_id": "curtsy_squat",
+    "exercise_name": "Curtsy Squat",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 5,
+    "exercise_id": "side_plank_row",
+    "exercise_name": "Side Plank Row",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 5,
+    "exercise_id": "standing_row",
+    "exercise_name": "Standing Row",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 5,
+    "exercise_id": "hamstring_slider_curl",
+    "exercise_name": "Hamstring Curl (Slider)",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 5,
+    "exercise_id": "cossack_squat",
+    "exercise_name": "Cossack Squat",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 5,
+    "exercise_id": "rear_delt_fly",
+    "exercise_name": "Rear Delt Fly",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 5,
+    "exercise_id": "step_up",
+    "exercise_name": "Step-Up",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 5,
+    "exercise_id": "pallof_press",
+    "exercise_name": "Pallof Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 1,
+    "week_start": "2026-02-23"
+  },
+  {
+    "day": 1,
+    "exercise_id": "standing_row",
+    "exercise_name": "Standing Row",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 1,
+    "exercise_id": "romanian_deadlift",
+    "exercise_name": "Romanian Deadlift",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 1,
+    "exercise_id": "box_pistol_squat",
+    "exercise_name": "Box Pistol Squat",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 1,
+    "exercise_id": "dumbbell_press",
+    "exercise_name": "Dumbbell Press",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 1,
+    "exercise_id": "calf_raises",
+    "exercise_name": "Calf Raises",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 1,
+    "exercise_id": "copenhagen_plank",
+    "exercise_name": "Copenhagen Plank",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 2,
+    "exercise_id": "scapula_setting",
+    "exercise_name": "Scapula Setting / Flossing",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 2,
+    "exercise_id": "hamstring_slider_curl",
+    "exercise_name": "Hamstring Curl (Slider)",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 2,
+    "exercise_id": "side_plank",
+    "exercise_name": "Side Plank",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 2,
+    "exercise_id": "butterfly_press",
+    "exercise_name": "Butterfly Press",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 2,
+    "exercise_id": "reverse_lunge",
+    "exercise_name": "Reverse Lunge",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 2,
+    "exercise_id": "russian_twist",
+    "exercise_name": "Russian Twist",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 2,
+    "exercise_id": "shrugs",
+    "exercise_name": "Shrugs",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 2,
+    "exercise_id": "turkish_get_up",
+    "exercise_name": "Turkish Get-Up",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 2,
+    "exercise_id": "pallof_press",
+    "exercise_name": "Pallof Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 3,
+    "exercise_id": "upwards_row",
+    "exercise_name": "Upwards Row",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 3,
+    "exercise_id": "step_up",
+    "exercise_name": "Step-Up",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 3,
+    "exercise_id": "swiss_ball_core_rotation",
+    "exercise_name": "Swiss Ball Core Rotation",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 3,
+    "exercise_id": "hammer_curls",
+    "exercise_name": "Hammer Curls",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 3,
+    "exercise_id": "calf_raises_single",
+    "exercise_name": "Single Leg Calf Raises",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 3,
+    "exercise_id": "copenhagen_plank",
+    "exercise_name": "Copenhagen Plank",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 3,
+    "exercise_id": "shrugs",
+    "exercise_name": "Shrugs",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 3,
+    "exercise_id": "romanian_deadlift",
+    "exercise_name": "Romanian Deadlift",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 3,
+    "exercise_id": "side_plank_row",
+    "exercise_name": "Side Plank Row",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 4,
+    "exercise_id": "narrow_upwards_row",
+    "exercise_name": "Narrow Upwards Row",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 4,
+    "exercise_id": "bulgarian_split_squat",
+    "exercise_name": "Bulgarian Split Squat",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 4,
+    "exercise_id": "plank_yoga_ball",
+    "exercise_name": "Plank on Yoga Ball",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 4,
+    "exercise_id": "shoulder_rotation",
+    "exercise_name": "Floor Internal / External Rotation",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 4,
+    "exercise_id": "hamstring_yoga_ball_curl",
+    "exercise_name": "Hamstring Curl (Yoga Ball)",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 4,
+    "exercise_id": "push_up",
+    "exercise_name": "Push Up",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 4,
+    "exercise_id": "scapula_setting",
+    "exercise_name": "Scapula Setting / Flossing",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 4,
+    "exercise_id": "side_lunge",
+    "exercise_name": "Side Lunge",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 4,
+    "exercise_id": "clam_walk_strap",
+    "exercise_name": "Clam Walk With Strap",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 5,
+    "exercise_id": "standing_row",
+    "exercise_name": "Standing Row",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 5,
+    "exercise_id": "split_squat",
+    "exercise_name": "Split Squat",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 5,
+    "exercise_id": "copenhagen_plank",
+    "exercise_name": "Copenhagen Plank",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 5,
+    "exercise_id": "lateral_raises",
+    "exercise_name": "Lateral Raises",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 5,
+    "exercise_id": "hamstring_slider_curl_Single_Leg",
+    "exercise_name": "Single Leg Hamstring Curl (Slider)",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 5,
+    "exercise_id": "renegade_row",
+    "exercise_name": "Renegade Row",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 5,
+    "exercise_id": "rear_delt_fly",
+    "exercise_name": "Rear Delt Fly",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 5,
+    "exercise_id": "bridge_yoga_ball_feet",
+    "exercise_name": "Bridges with Feet on Yoga Ball",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 5,
+    "exercise_id": "russian_twist",
+    "exercise_name": "Russian Twist",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 2,
+    "week_start": "2026-03-02"
+  },
+  {
+    "day": 1,
+    "exercise_id": "elbow_out_row",
+    "exercise_name": "Elbow Out Row",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 1,
+    "exercise_id": "sumo_squat",
+    "exercise_name": "Sumo Squat",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 1,
+    "exercise_id": "plank_yoga_ball",
+    "exercise_name": "Plank on Yoga Ball",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 1,
+    "exercise_id": "frontline_pow_raise",
+    "exercise_name": "Frontline POW Raise",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 1,
+    "exercise_id": "calf_raises_single",
+    "exercise_name": "Single Leg Calf Raises",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 1,
+    "exercise_id": "pallof_press",
+    "exercise_name": "Pallof Press",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 1,
+    "exercise_id": "y_t_ws",
+    "exercise_name": "Y T Ws",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 1,
+    "exercise_id": "turkish_get_up",
+    "exercise_name": "Turkish Get-Up",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 1,
+    "exercise_id": "cossack_squat",
+    "exercise_name": "Cossack Squat",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 2,
+    "exercise_id": "butterfly_press",
+    "exercise_name": "Butterfly Press",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 2,
+    "exercise_id": "box_pistol_squat",
+    "exercise_name": "Box Pistol Squat",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 2,
+    "exercise_id": "side_lunge",
+    "exercise_name": "Side Lunge",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 2,
+    "exercise_id": "upwards_row",
+    "exercise_name": "Upwards Row",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 2,
+    "exercise_id": "bridge_toe_taps",
+    "exercise_name": "Bridge Toe Taps",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 2,
+    "exercise_id": "yoga_ball_plank_circles",
+    "exercise_name": "Yoga Ball Plank Circles",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 3,
+    "exercise_id": "floor_high_plank",
+    "exercise_name": "Floor High Plank",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 3,
+    "exercise_id": "split_squat",
+    "exercise_name": "Split Squat",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 3,
+    "exercise_id": "weighted_side_bend",
+    "exercise_name": "Weighted Side Bend",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 3,
+    "exercise_id": "arm_pt",
+    "exercise_name": "Arm PT",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 3,
+    "exercise_id": "hamstring_slider_curl",
+    "exercise_name": "Hamstring Curl (Slider)",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 3,
+    "exercise_id": "march_in_place_strap",
+    "exercise_name": "March in Place With Strap",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 3,
+    "exercise_id": "y_t_ws",
+    "exercise_name": "Y T Ws",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 3,
+    "exercise_id": "romanian_deadlift",
+    "exercise_name": "Romanian Deadlift",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 3,
+    "exercise_id": "side_plank_row",
+    "exercise_name": "Side Plank Row",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 4,
+    "exercise_id": "wide_upwards_row",
+    "exercise_name": "Wide Upwards Row",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 4,
+    "exercise_id": "hip_thruster",
+    "exercise_name": "Hip Thruster",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 4,
+    "exercise_id": "side_plank",
+    "exercise_name": "Side Plank",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 4,
+    "exercise_id": "shoulder_rotation",
+    "exercise_name": "Floor Internal / External Rotation",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 4,
+    "exercise_id": "box_squat",
+    "exercise_name": "Box Squat",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 4,
+    "exercise_id": "hamstring_slider_curl_Single_Leg",
+    "exercise_name": "Single Leg Hamstring Curl (Slider)",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 4,
+    "exercise_id": "shrugs",
+    "exercise_name": "Shrugs",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 4,
+    "exercise_id": "calf_raises",
+    "exercise_name": "Calf Raises",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 4,
+    "exercise_id": "push_up",
+    "exercise_name": "Push Up",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 5,
+    "exercise_id": "standing_row",
+    "exercise_name": "Standing Row",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 5,
+    "exercise_id": "forward_lunge",
+    "exercise_name": "Forward Lunge",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 5,
+    "exercise_id": "yoga_ball_plank_back_forth",
+    "exercise_name": "Yoga Ball Plank Back and Forth",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 5,
+    "exercise_id": "lateral_raises",
+    "exercise_name": "Lateral Raises",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 5,
+    "exercise_id": "hamstring_slider_curl",
+    "exercise_name": "Hamstring Curl (Slider)",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 5,
+    "exercise_id": "swiss_ball_core_rotation",
+    "exercise_name": "Swiss Ball Core Rotation",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 5,
+    "exercise_id": "dumbbell_press",
+    "exercise_name": "Dumbbell Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 5,
+    "exercise_id": "single_leg_3_cone_touch",
+    "exercise_name": "Single Leg 3 Cone Touch",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 5,
+    "exercise_id": "renegade_row",
+    "exercise_name": "Renegade Row",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 3,
+    "week_start": "2026-03-09"
+  },
+  {
+    "day": 1,
+    "exercise_id": "arnold_press",
+    "exercise_name": "Arnold Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 1,
+    "exercise_id": "forward_lunge",
+    "exercise_name": "Forward Lunge",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 1,
+    "exercise_id": "copenhagen_plank",
+    "exercise_name": "Copenhagen Plank",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 1,
+    "exercise_id": "rear_delt_fly",
+    "exercise_name": "Rear Delt Fly",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 1,
+    "exercise_id": "bridge_yoga_ball_feet",
+    "exercise_name": "Bridges with Feet on Yoga Ball",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 1,
+    "exercise_id": "russian_twist",
+    "exercise_name": "Russian Twist",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 1,
+    "exercise_id": "arm_pt",
+    "exercise_name": "Arm PT",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 1,
+    "exercise_id": "calf_raises",
+    "exercise_name": "Calf Raises",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 1,
+    "exercise_id": "hamstring_yoga_ball_curl",
+    "exercise_name": "Hamstring Curl (Yoga Ball)",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 2,
+    "exercise_id": "floor_high_plank",
+    "exercise_name": "Floor High Plank",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 2,
+    "exercise_id": "goblet_front_squat",
+    "exercise_name": "Front Squat (Goblet)",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 2,
+    "exercise_id": "side_lunge",
+    "exercise_name": "Side Lunge",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 2,
+    "exercise_id": "arnold_press",
+    "exercise_name": "Arnold Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 2,
+    "exercise_id": "cossack_squat",
+    "exercise_name": "Cossack Squat",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 2,
+    "exercise_id": "weighted_side_bend",
+    "exercise_name": "Weighted Side Bend",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 2,
+    "exercise_id": "scapula_setting",
+    "exercise_name": "Scapula Setting / Flossing",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 2,
+    "exercise_id": "turkish_get_up",
+    "exercise_name": "Turkish Get-Up",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 2,
+    "exercise_id": "swiss_ball_core_rotation",
+    "exercise_name": "Swiss Ball Core Rotation",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 3,
+    "exercise_id": "butterfly_press",
+    "exercise_name": "Butterfly Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 3,
+    "exercise_id": "sumo_squat",
+    "exercise_name": "Sumo Squat",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 3,
+    "exercise_id": "floor_low_plank",
+    "exercise_name": "Floor Low Plank",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 3,
+    "exercise_id": "hammer_curls",
+    "exercise_name": "Hammer Curls",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 3,
+    "exercise_id": "romanian_deadlift",
+    "exercise_name": "Romanian Deadlift",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 3,
+    "exercise_id": "push_up",
+    "exercise_name": "Push Up",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 3,
+    "exercise_id": "y_t_ws",
+    "exercise_name": "Y T Ws",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 3,
+    "exercise_id": "calf_raises",
+    "exercise_name": "Calf Raises",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 3,
+    "exercise_id": "renegade_row",
+    "exercise_name": "Renegade Row",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 4,
+    "exercise_id": "floor_high_plank",
+    "exercise_name": "Floor High Plank",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 4,
+    "exercise_id": "box_squat",
+    "exercise_name": "Box Squat",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 4,
+    "exercise_id": "weighted_side_bend",
+    "exercise_name": "Weighted Side Bend",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 4,
+    "exercise_id": "wide_upwards_row",
+    "exercise_name": "Wide Upwards Row",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 4,
+    "exercise_id": "heel_walk",
+    "exercise_name": "Heel Walk",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 4,
+    "exercise_id": "pallof_press",
+    "exercise_name": "Pallof Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 4,
+    "exercise_id": "y_t_ws",
+    "exercise_name": "Y T Ws",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 4,
+    "exercise_id": "hamstring_slider_curl_Single_Leg",
+    "exercise_name": "Single Leg Hamstring Curl (Slider)",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 4,
+    "exercise_id": "side_plank_row",
+    "exercise_name": "Side Plank Row",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 5,
+    "exercise_id": "frontline_pow_raise",
+    "exercise_name": "Frontline POW Raise",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 5,
+    "exercise_id": "heel_walk",
+    "exercise_name": "Heel Walk",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 5,
+    "exercise_id": "yoga_ball_plank_back_forth",
+    "exercise_name": "Yoga Ball Plank Back and Forth",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 5,
+    "exercise_id": "standing_row",
+    "exercise_name": "Standing Row",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 5,
+    "exercise_id": "jump_squat",
+    "exercise_name": "Jump Squat",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 5,
+    "exercise_id": "weighted_side_bend",
+    "exercise_name": "Weighted Side Bend",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 5,
+    "exercise_id": "arnold_press",
+    "exercise_name": "Arnold Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 5,
+    "exercise_id": "calf_raises_single",
+    "exercise_name": "Single Leg Calf Raises",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 5,
+    "exercise_id": "swiss_ball_core_rotation",
+    "exercise_name": "Swiss Ball Core Rotation",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 4,
+    "week_start": "2026-03-16"
+  },
+  {
+    "day": 1,
+    "exercise_id": "tricep_press",
+    "exercise_name": "Tricep Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 1,
+    "exercise_id": "clam_walk_strap",
+    "exercise_name": "Clam Walk With Strap",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 1,
+    "exercise_id": "yoga_ball_plank_circles",
+    "exercise_name": "Yoga Ball Plank Circles",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 1,
+    "exercise_id": "wide_upwards_row",
+    "exercise_name": "Wide Upwards Row",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 1,
+    "exercise_id": "box_squat",
+    "exercise_name": "Box Squat",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 1,
+    "exercise_id": "cossack_squat",
+    "exercise_name": "Cossack Squat",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 1,
+    "exercise_id": "hammer_curls",
+    "exercise_name": "Hammer Curls",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 1,
+    "exercise_id": "turkish_get_up",
+    "exercise_name": "Turkish Get-Up",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 1,
+    "exercise_id": "push_up",
+    "exercise_name": "Push Up",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 2,
+    "exercise_id": "tricep_press",
+    "exercise_name": "Tricep Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 2,
+    "exercise_id": "bulgarian_split_squat",
+    "exercise_name": "Bulgarian Split Squat",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 2,
+    "exercise_id": "side_plank",
+    "exercise_name": "Side Plank",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 2,
+    "exercise_id": "scapula_setting",
+    "exercise_name": "Scapula Setting / Flossing",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 2,
+    "exercise_id": "romanian_deadlift",
+    "exercise_name": "Romanian Deadlift",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 2,
+    "exercise_id": "hamstring_slider_curl_Single_Leg",
+    "exercise_name": "Single Leg Hamstring Curl (Slider)",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 2,
+    "exercise_id": "elbow_out_row",
+    "exercise_name": "Elbow Out Row",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 2,
+    "exercise_id": "calf_raises_single",
+    "exercise_name": "Single Leg Calf Raises",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 2,
+    "exercise_id": "pallof_press",
+    "exercise_name": "Pallof Press",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 3,
+    "exercise_id": "rear_delt_fly",
+    "exercise_name": "Rear Delt Fly",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 3,
+    "exercise_id": "split_squat",
+    "exercise_name": "Split Squat",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 3,
+    "exercise_id": "side_plank",
+    "exercise_name": "Side Plank",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 3,
+    "exercise_id": "y_t_ws",
+    "exercise_name": "Y T Ws",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 3,
+    "exercise_id": "step_up",
+    "exercise_name": "Step-Up",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 3,
+    "exercise_id": "side_plank_row",
+    "exercise_name": "Side Plank Row",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 4,
+    "exercise_id": "narrow_upwards_row",
+    "exercise_name": "Narrow Upwards Row",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 4,
+    "exercise_id": "bridge_yoga_ball_feet",
+    "exercise_name": "Bridges with Feet on Yoga Ball",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 4,
+    "exercise_id": "box_pistol_squat",
+    "exercise_name": "Box Pistol Squat",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 4,
+    "exercise_id": "dumbbell_press",
+    "exercise_name": "Dumbbell Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 4,
+    "exercise_id": "hamstring_yoga_ball_curl",
+    "exercise_name": "Hamstring Curl (Yoga Ball)",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 4,
+    "exercise_id": "march_in_place_strap",
+    "exercise_name": "March in Place With Strap",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 4,
+    "exercise_id": "rear_delt_fly",
+    "exercise_name": "Rear Delt Fly",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 4,
+    "exercise_id": "clam_walk_strap",
+    "exercise_name": "Clam Walk With Strap",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 4,
+    "exercise_id": "swiss_ball_core_rotation",
+    "exercise_name": "Swiss Ball Core Rotation",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 5,
+    "exercise_id": "tricep_press",
+    "exercise_name": "Tricep Press",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 5,
+    "exercise_id": "bulgarian_split_squat",
+    "exercise_name": "Bulgarian Split Squat",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 5,
+    "exercise_id": "yoga_ball_plank_circles",
+    "exercise_name": "Yoga Ball Plank Circles",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 5,
+    "exercise_id": "lateral_raises",
+    "exercise_name": "Lateral Raises",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 5,
+    "exercise_id": "single_leg_3_cone_touch",
+    "exercise_name": "Single Leg 3 Cone Touch",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 5,
+    "exercise_id": "hamstring_slider_curl",
+    "exercise_name": "Hamstring Curl (Slider)",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 5,
+    "exercise_id": "upwards_row",
+    "exercise_name": "Upwards Row",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 5,
+    "exercise_id": "clam_walk_strap",
+    "exercise_name": "Clam Walk With Strap",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 5,
+    "exercise_id": "renegade_row",
+    "exercise_name": "Renegade Row",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 5,
+    "week_start": "2026-03-23"
+  },
+  {
+    "day": 1,
+    "exercise_id": "shoulder_rotation",
+    "exercise_name": "Floor Internal / External Rotation",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 1,
+    "exercise_id": "goblet_front_squat",
+    "exercise_name": "Front Squat (Goblet)",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 1,
+    "exercise_id": "side_lunge",
+    "exercise_name": "Side Lunge",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 1,
+    "exercise_id": "narrow_upwards_row",
+    "exercise_name": "Narrow Upwards Row",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 1,
+    "exercise_id": "hamstring_yoga_ball_curl",
+    "exercise_name": "Hamstring Curl (Yoga Ball)",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 1,
+    "exercise_id": "turkish_get_up",
+    "exercise_name": "Turkish Get-Up",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 1,
+    "exercise_id": "butterfly_press",
+    "exercise_name": "Butterfly Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 1,
+    "exercise_id": "bridge_toe_taps",
+    "exercise_name": "Bridge Toe Taps",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 1,
+    "exercise_id": "cossack_squat",
+    "exercise_name": "Cossack Squat",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 2,
+    "exercise_id": "floor_high_plank",
+    "exercise_name": "Floor High Plank",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 2,
+    "exercise_id": "bulgarian_split_squat",
+    "exercise_name": "Bulgarian Split Squat",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 2,
+    "exercise_id": "hamstring_yoga_ball_curl",
+    "exercise_name": "Hamstring Curl (Yoga Ball)",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 2,
+    "exercise_id": "wide_upwards_row",
+    "exercise_name": "Wide Upwards Row",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 2,
+    "exercise_id": "romanian_deadlift",
+    "exercise_name": "Romanian Deadlift",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 2,
+    "exercise_id": "weighted_side_bend",
+    "exercise_name": "Weighted Side Bend",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 3,
+    "exercise_id": "hammer_curls",
+    "exercise_name": "Hammer Curls",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 3,
+    "exercise_id": "reverse_lunge",
+    "exercise_name": "Reverse Lunge",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 3,
+    "exercise_id": "yoga_ball_plank_circles",
+    "exercise_name": "Yoga Ball Plank Circles",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 3,
+    "exercise_id": "rear_delt_fly",
+    "exercise_name": "Rear Delt Fly",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 3,
+    "exercise_id": "bridge_yoga_ball_feet",
+    "exercise_name": "Bridges with Feet on Yoga Ball",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 3,
+    "exercise_id": "push_up",
+    "exercise_name": "Push Up",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 4,
+    "exercise_id": "upwards_row",
+    "exercise_name": "Upwards Row",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 4,
+    "exercise_id": "step_up",
+    "exercise_name": "Step-Up",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 4,
+    "exercise_id": "russian_twist",
+    "exercise_name": "Russian Twist",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 4,
+    "exercise_id": "shrugs",
+    "exercise_name": "Shrugs",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 4,
+    "exercise_id": "calf_raises",
+    "exercise_name": "Calf Raises",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 4,
+    "exercise_id": "copenhagen_plank",
+    "exercise_name": "Copenhagen Plank",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 4,
+    "exercise_id": "frontline_pow_raise",
+    "exercise_name": "Frontline POW Raise",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 4,
+    "exercise_id": "hamstring_slider_curl",
+    "exercise_name": "Hamstring Curl (Slider)",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 4,
+    "exercise_id": "pallof_press",
+    "exercise_name": "Pallof Press",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 5,
+    "exercise_id": "butterfly_press",
+    "exercise_name": "Butterfly Press",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 5,
+    "exercise_id": "curtsy_squat",
+    "exercise_name": "Curtsy Squat",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 5,
+    "exercise_id": "copenhagen_plank",
+    "exercise_name": "Copenhagen Plank",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 5,
+    "exercise_id": "standing_row",
+    "exercise_name": "Standing Row",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 5,
+    "exercise_id": "hip_thruster",
+    "exercise_name": "Hip Thruster",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 5,
+    "exercise_id": "swiss_ball_core_rotation",
+    "exercise_name": "Swiss Ball Core Rotation",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 5,
+    "exercise_id": "y_t_ws",
+    "exercise_name": "Y T Ws",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 5,
+    "exercise_id": "calf_raises",
+    "exercise_name": "Calf Raises",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 5,
+    "exercise_id": "renegade_row",
+    "exercise_name": "Renegade Row",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 6,
+    "week_start": "2026-03-30"
+  },
+  {
+    "day": 1,
+    "exercise_id": "dumbbell_press",
+    "exercise_name": "Dumbbell Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 1,
+    "exercise_id": "goblet_front_squat",
+    "exercise_name": "Front Squat (Goblet)",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 1,
+    "exercise_id": "bridge_yoga_ball_feet",
+    "exercise_name": "Bridges with Feet on Yoga Ball",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 1,
+    "exercise_id": "scapula_setting",
+    "exercise_name": "Scapula Setting / Flossing",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 1,
+    "exercise_id": "single_leg_3_cone_touch",
+    "exercise_name": "Single Leg 3 Cone Touch",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 1,
+    "exercise_id": "yoga_ball_plank_circles",
+    "exercise_name": "Yoga Ball Plank Circles",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 1,
+    "exercise_id": "upwards_row",
+    "exercise_name": "Upwards Row",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 1,
+    "exercise_id": "cossack_squat",
+    "exercise_name": "Cossack Squat",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 1,
+    "exercise_id": "weighted_side_bend",
+    "exercise_name": "Weighted Side Bend",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 2,
+    "exercise_id": "elbow_out_row",
+    "exercise_name": "Elbow Out Row",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 2,
+    "exercise_id": "split_squat",
+    "exercise_name": "Split Squat",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 2,
+    "exercise_id": "floor_high_plank",
+    "exercise_name": "Floor High Plank",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 2,
+    "exercise_id": "lateral_raises",
+    "exercise_name": "Lateral Raises",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 2,
+    "exercise_id": "romanian_deadlift",
+    "exercise_name": "Romanian Deadlift",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 2,
+    "exercise_id": "side_plank_row",
+    "exercise_name": "Side Plank Row",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 3,
+    "exercise_id": "frontline_pow_raise",
+    "exercise_name": "Frontline POW Raise",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 3,
+    "exercise_id": "bridge_toe_taps",
+    "exercise_name": "Bridge Toe Taps",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 3,
+    "exercise_id": "yoga_ball_plank_circles",
+    "exercise_name": "Yoga Ball Plank Circles",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 3,
+    "exercise_id": "arnold_press",
+    "exercise_name": "Arnold Press",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 3,
+    "exercise_id": "sumo_squat",
+    "exercise_name": "Sumo Squat",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 3,
+    "exercise_id": "hamstring_slider_curl_Single_Leg",
+    "exercise_name": "Single Leg Hamstring Curl (Slider)",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 4,
+    "exercise_id": "rear_delt_fly",
+    "exercise_name": "Rear Delt Fly",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 4,
+    "exercise_id": "forward_lunge",
+    "exercise_name": "Forward Lunge",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 4,
+    "exercise_id": "hamstring_slider_curl",
+    "exercise_name": "Hamstring Curl (Slider)",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 4,
+    "exercise_id": "standing_row",
+    "exercise_name": "Standing Row",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 4,
+    "exercise_id": "heel_walk",
+    "exercise_name": "Heel Walk",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 4,
+    "exercise_id": "floor_low_plank",
+    "exercise_name": "Floor Low Plank",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 4,
+    "exercise_id": "arnold_press",
+    "exercise_name": "Arnold Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 4,
+    "exercise_id": "turkish_get_up",
+    "exercise_name": "Turkish Get-Up",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 4,
+    "exercise_id": "march_in_place_strap",
+    "exercise_name": "March in Place With Strap",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 5,
+    "exercise_id": "hammer_curls",
+    "exercise_name": "Hammer Curls",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 5,
+    "exercise_id": "split_squat",
+    "exercise_name": "Split Squat",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 5,
+    "exercise_id": "side_plank",
+    "exercise_name": "Side Plank",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 5,
+    "exercise_id": "wide_upwards_row",
+    "exercise_name": "Wide Upwards Row",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 5,
+    "exercise_id": "hip_thruster",
+    "exercise_name": "Hip Thruster",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 5,
+    "exercise_id": "russian_twist",
+    "exercise_name": "Russian Twist",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 7,
+    "week_start": "2026-04-06"
+  },
+  {
+    "day": 1,
+    "exercise_id": "shoulder_rotation",
+    "exercise_name": "Floor Internal / External Rotation",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 1,
+    "exercise_id": "bridge_yoga_ball_feet",
+    "exercise_name": "Bridges with Feet on Yoga Ball",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 1,
+    "exercise_id": "pallof_press",
+    "exercise_name": "Pallof Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 1,
+    "exercise_id": "y_t_ws",
+    "exercise_name": "Y T Ws",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 1,
+    "exercise_id": "box_squat",
+    "exercise_name": "Box Squat",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 1,
+    "exercise_id": "hamstring_yoga_ball_curl",
+    "exercise_name": "Hamstring Curl (Yoga Ball)",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 1,
+    "exercise_id": "arm_pt",
+    "exercise_name": "Arm PT",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 1,
+    "exercise_id": "calf_raises_single",
+    "exercise_name": "Single Leg Calf Raises",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 1,
+    "exercise_id": "clam_walk_strap",
+    "exercise_name": "Clam Walk With Strap",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 2,
+    "exercise_id": "shrugs",
+    "exercise_name": "Shrugs",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 2,
+    "exercise_id": "curtsy_squat",
+    "exercise_name": "Curtsy Squat",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 2,
+    "exercise_id": "side_lunge",
+    "exercise_name": "Side Lunge",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 2,
+    "exercise_id": "tricep_press",
+    "exercise_name": "Tricep Press",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 2,
+    "exercise_id": "calf_raises",
+    "exercise_name": "Calf Raises",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 2,
+    "exercise_id": "push_up",
+    "exercise_name": "Push Up",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 2,
+    "exercise_id": "elbow_out_row",
+    "exercise_name": "Elbow Out Row",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 2,
+    "exercise_id": "heel_walk",
+    "exercise_name": "Heel Walk",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 2,
+    "exercise_id": "hamstring_slider_curl_Single_Leg",
+    "exercise_name": "Single Leg Hamstring Curl (Slider)",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 3,
+    "exercise_id": "narrow_upwards_row",
+    "exercise_name": "Narrow Upwards Row",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 3,
+    "exercise_id": "box_pistol_squat",
+    "exercise_name": "Box Pistol Squat",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 3,
+    "exercise_id": "copenhagen_plank",
+    "exercise_name": "Copenhagen Plank",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 3,
+    "exercise_id": "shoulder_rotation",
+    "exercise_name": "Floor Internal / External Rotation",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 3,
+    "exercise_id": "side_lunge",
+    "exercise_name": "Side Lunge",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 3,
+    "exercise_id": "swiss_ball_core_rotation",
+    "exercise_name": "Swiss Ball Core Rotation",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 4,
+    "exercise_id": "scapula_setting",
+    "exercise_name": "Scapula Setting / Flossing",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 4,
+    "exercise_id": "sumo_squat",
+    "exercise_name": "Sumo Squat",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 4,
+    "exercise_id": "yoga_ball_plank_back_forth",
+    "exercise_name": "Yoga Ball Plank Back and Forth",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 4,
+    "exercise_id": "narrow_upwards_row",
+    "exercise_name": "Narrow Upwards Row",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 4,
+    "exercise_id": "cossack_squat",
+    "exercise_name": "Cossack Squat",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 4,
+    "exercise_id": "renegade_row",
+    "exercise_name": "Renegade Row",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 4,
+    "exercise_id": "lateral_raises",
+    "exercise_name": "Lateral Raises",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 4,
+    "exercise_id": "hamstring_slider_curl_Single_Leg",
+    "exercise_name": "Single Leg Hamstring Curl (Slider)",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 4,
+    "exercise_id": "side_plank_row",
+    "exercise_name": "Side Plank Row",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 5,
+    "exercise_id": "upwards_row",
+    "exercise_name": "Upwards Row",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 5,
+    "exercise_id": "curtsy_squat",
+    "exercise_name": "Curtsy Squat",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 5,
+    "exercise_id": "yoga_ball_plank_back_forth",
+    "exercise_name": "Yoga Ball Plank Back and Forth",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 5,
+    "exercise_id": "shoulder_rotation",
+    "exercise_name": "Floor Internal / External Rotation",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 5,
+    "exercise_id": "hamstring_slider_curl",
+    "exercise_name": "Hamstring Curl (Slider)",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 5,
+    "exercise_id": "pallof_press",
+    "exercise_name": "Pallof Press",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 8,
+    "week_start": "2026-04-13"
+  },
+  {
+    "day": 1,
+    "exercise_id": "scapula_setting",
+    "exercise_name": "Scapula Setting / Flossing",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 1,
+    "exercise_id": "jump_squat",
+    "exercise_name": "Jump Squat",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 1,
+    "exercise_id": "march_in_place_strap",
+    "exercise_name": "March in Place With Strap",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 1,
+    "exercise_id": "tricep_press",
+    "exercise_name": "Tricep Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 1,
+    "exercise_id": "single_leg_3_cone_touch",
+    "exercise_name": "Single Leg 3 Cone Touch",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 1,
+    "exercise_id": "swiss_ball_core_rotation",
+    "exercise_name": "Swiss Ball Core Rotation",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 1,
+    "exercise_id": "narrow_upwards_row",
+    "exercise_name": "Narrow Upwards Row",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 1,
+    "exercise_id": "calf_raises_single",
+    "exercise_name": "Single Leg Calf Raises",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 1,
+    "exercise_id": "push_up",
+    "exercise_name": "Push Up",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 2,
+    "exercise_id": "butterfly_press",
+    "exercise_name": "Butterfly Press",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 2,
+    "exercise_id": "step_up",
+    "exercise_name": "Step-Up",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 2,
+    "exercise_id": "side_plank",
+    "exercise_name": "Side Plank",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 2,
+    "exercise_id": "elbow_out_row",
+    "exercise_name": "Elbow Out Row",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 2,
+    "exercise_id": "single_leg_3_cone_touch",
+    "exercise_name": "Single Leg 3 Cone Touch",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 2,
+    "exercise_id": "hamstring_yoga_ball_curl",
+    "exercise_name": "Hamstring Curl (Yoga Ball)",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 2,
+    "exercise_id": "arm_pt",
+    "exercise_name": "Arm PT",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 2,
+    "exercise_id": "heel_walk",
+    "exercise_name": "Heel Walk",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 2,
+    "exercise_id": "turkish_get_up",
+    "exercise_name": "Turkish Get-Up",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 3,
+    "exercise_id": "tricep_press",
+    "exercise_name": "Tricep Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 3,
+    "exercise_id": "curtsy_squat",
+    "exercise_name": "Curtsy Squat",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 3,
+    "exercise_id": "clam_walk_strap",
+    "exercise_name": "Clam Walk With Strap",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 3,
+    "exercise_id": "arm_pt",
+    "exercise_name": "Arm PT",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 3,
+    "exercise_id": "calf_raises_single",
+    "exercise_name": "Single Leg Calf Raises",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 3,
+    "exercise_id": "copenhagen_plank",
+    "exercise_name": "Copenhagen Plank",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 3,
+    "exercise_id": "wide_upwards_row",
+    "exercise_name": "Wide Upwards Row",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 3,
+    "exercise_id": "cossack_squat",
+    "exercise_name": "Cossack Squat",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 3,
+    "exercise_id": "renegade_row",
+    "exercise_name": "Renegade Row",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 4,
+    "exercise_id": "arnold_press",
+    "exercise_name": "Arnold Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 4,
+    "exercise_id": "box_squat",
+    "exercise_name": "Box Squat",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 4,
+    "exercise_id": "yoga_ball_plank_circles",
+    "exercise_name": "Yoga Ball Plank Circles",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 4,
+    "exercise_id": "rear_delt_fly",
+    "exercise_name": "Rear Delt Fly",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 4,
+    "exercise_id": "bridge_yoga_ball_feet",
+    "exercise_name": "Bridges with Feet on Yoga Ball",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 4,
+    "exercise_id": "pallof_press",
+    "exercise_name": "Pallof Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 4,
+    "exercise_id": "standing_row",
+    "exercise_name": "Standing Row",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 4,
+    "exercise_id": "calf_raises",
+    "exercise_name": "Calf Raises",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 4,
+    "exercise_id": "hamstring_slider_curl_Single_Leg",
+    "exercise_name": "Single Leg Hamstring Curl (Slider)",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 5,
+    "exercise_id": "arnold_press",
+    "exercise_name": "Arnold Press",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 5,
+    "exercise_id": "hip_thruster",
+    "exercise_name": "Hip Thruster",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 5,
+    "exercise_id": "weighted_side_bend",
+    "exercise_name": "Weighted Side Bend",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 5,
+    "exercise_id": "wide_upwards_row",
+    "exercise_name": "Wide Upwards Row",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 5,
+    "exercise_id": "goblet_front_squat",
+    "exercise_name": "Front Squat (Goblet)",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 5,
+    "exercise_id": "russian_twist",
+    "exercise_name": "Russian Twist",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 9,
+    "week_start": "2026-04-20"
+  },
+  {
+    "day": 1,
+    "exercise_id": "floor_high_plank",
+    "exercise_name": "Floor High Plank",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 1,
+    "exercise_id": "bulgarian_split_squat",
+    "exercise_name": "Bulgarian Split Squat",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 1,
+    "exercise_id": "swiss_ball_core_rotation",
+    "exercise_name": "Swiss Ball Core Rotation",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 1,
+    "exercise_id": "butterfly_press",
+    "exercise_name": "Butterfly Press",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 1,
+    "exercise_id": "hamstring_slider_curl",
+    "exercise_name": "Hamstring Curl (Slider)",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 1,
+    "exercise_id": "side_lunge",
+    "exercise_name": "Side Lunge",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 2,
+    "exercise_id": "standing_row",
+    "exercise_name": "Standing Row",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 2,
+    "exercise_id": "jump_squat",
+    "exercise_name": "Jump Squat",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 2,
+    "exercise_id": "floor_high_plank",
+    "exercise_name": "Floor High Plank",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 2,
+    "exercise_id": "y_t_ws",
+    "exercise_name": "Y T Ws",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 2,
+    "exercise_id": "hamstring_yoga_ball_curl",
+    "exercise_name": "Hamstring Curl (Yoga Ball)",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 2,
+    "exercise_id": "side_plank_row",
+    "exercise_name": "Side Plank Row",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 3,
+    "exercise_id": "arm_pt",
+    "exercise_name": "Arm PT",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 3,
+    "exercise_id": "heel_walk",
+    "exercise_name": "Heel Walk",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 3,
+    "exercise_id": "yoga_ball_plank_back_forth",
+    "exercise_name": "Yoga Ball Plank Back and Forth",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 3,
+    "exercise_id": "hammer_curls",
+    "exercise_name": "Hammer Curls",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 3,
+    "exercise_id": "split_squat",
+    "exercise_name": "Split Squat",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 3,
+    "exercise_id": "march_in_place_strap",
+    "exercise_name": "March in Place With Strap",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 3,
+    "exercise_id": "butterfly_press",
+    "exercise_name": "Butterfly Press",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 3,
+    "exercise_id": "romanian_deadlift",
+    "exercise_name": "Romanian Deadlift",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 3,
+    "exercise_id": "renegade_row",
+    "exercise_name": "Renegade Row",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 4,
+    "exercise_id": "shrugs",
+    "exercise_name": "Shrugs",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 4,
+    "exercise_id": "goblet_front_squat",
+    "exercise_name": "Front Squat (Goblet)",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 4,
+    "exercise_id": "yoga_ball_plank_circles",
+    "exercise_name": "Yoga Ball Plank Circles",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 4,
+    "exercise_id": "narrow_upwards_row",
+    "exercise_name": "Narrow Upwards Row",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 4,
+    "exercise_id": "hip_thruster",
+    "exercise_name": "Hip Thruster",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 4,
+    "exercise_id": "weighted_side_bend",
+    "exercise_name": "Weighted Side Bend",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 4,
+    "exercise_id": "frontline_pow_raise",
+    "exercise_name": "Frontline POW Raise",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 4,
+    "exercise_id": "heel_walk",
+    "exercise_name": "Heel Walk",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 4,
+    "exercise_id": "push_up",
+    "exercise_name": "Push Up",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 5,
+    "exercise_id": "hammer_curls",
+    "exercise_name": "Hammer Curls",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 5,
+    "exercise_id": "step_up",
+    "exercise_name": "Step-Up",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 5,
+    "exercise_id": "side_plank",
+    "exercise_name": "Side Plank",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 5,
+    "exercise_id": "y_t_ws",
+    "exercise_name": "Y T Ws",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 5,
+    "exercise_id": "reverse_lunge",
+    "exercise_name": "Reverse Lunge",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 5,
+    "exercise_id": "pallof_press",
+    "exercise_name": "Pallof Press",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 5,
+    "exercise_id": "elbow_out_row",
+    "exercise_name": "Elbow Out Row",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 5,
+    "exercise_id": "single_leg_3_cone_touch",
+    "exercise_name": "Single Leg 3 Cone Touch",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 5,
+    "exercise_id": "clam_walk_strap",
+    "exercise_name": "Clam Walk With Strap",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 10,
+    "week_start": "2026-04-27"
+  },
+  {
+    "day": 1,
+    "exercise_id": "frontline_pow_raise",
+    "exercise_name": "Frontline POW Raise",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 1,
+    "exercise_id": "bridge_toe_taps",
+    "exercise_name": "Bridge Toe Taps",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 1,
+    "exercise_id": "copenhagen_plank",
+    "exercise_name": "Copenhagen Plank",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 1,
+    "exercise_id": "arm_pt",
+    "exercise_name": "Arm PT",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 1,
+    "exercise_id": "box_squat",
+    "exercise_name": "Box Squat",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 1,
+    "exercise_id": "clam_walk_strap",
+    "exercise_name": "Clam Walk With Strap",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 1,
+    "exercise_id": "rear_delt_fly",
+    "exercise_name": "Rear Delt Fly",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 1,
+    "exercise_id": "romanian_deadlift",
+    "exercise_name": "Romanian Deadlift",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 1,
+    "exercise_id": "cossack_squat",
+    "exercise_name": "Cossack Squat",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 2,
+    "exercise_id": "frontline_pow_raise",
+    "exercise_name": "Frontline POW Raise",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 2,
+    "exercise_id": "forward_lunge",
+    "exercise_name": "Forward Lunge",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 2,
+    "exercise_id": "side_plank",
+    "exercise_name": "Side Plank",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 2,
+    "exercise_id": "dumbbell_press",
+    "exercise_name": "Dumbbell Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 2,
+    "exercise_id": "turkish_get_up",
+    "exercise_name": "Turkish Get-Up",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 2,
+    "exercise_id": "bridge_yoga_ball_feet",
+    "exercise_name": "Bridges with Feet on Yoga Ball",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 2,
+    "exercise_id": "lateral_raises",
+    "exercise_name": "Lateral Raises",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 2,
+    "exercise_id": "clam_walk_strap",
+    "exercise_name": "Clam Walk With Strap",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 2,
+    "exercise_id": "hamstring_slider_curl_Single_Leg",
+    "exercise_name": "Single Leg Hamstring Curl (Slider)",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 3,
+    "exercise_id": "wide_upwards_row",
+    "exercise_name": "Wide Upwards Row",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 3,
+    "exercise_id": "curtsy_squat",
+    "exercise_name": "Curtsy Squat",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 3,
+    "exercise_id": "floor_low_plank",
+    "exercise_name": "Floor Low Plank",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 3,
+    "exercise_id": "lateral_raises",
+    "exercise_name": "Lateral Raises",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 3,
+    "exercise_id": "romanian_deadlift",
+    "exercise_name": "Romanian Deadlift",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 3,
+    "exercise_id": "push_up",
+    "exercise_name": "Push Up",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 4,
+    "exercise_id": "elbow_out_row",
+    "exercise_name": "Elbow Out Row",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 4,
+    "exercise_id": "box_pistol_squat",
+    "exercise_name": "Box Pistol Squat",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 4,
+    "exercise_id": "yoga_ball_plank_back_forth",
+    "exercise_name": "Yoga Ball Plank Back and Forth",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 4,
+    "exercise_id": "dumbbell_press",
+    "exercise_name": "Dumbbell Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 4,
+    "exercise_id": "turkish_get_up",
+    "exercise_name": "Turkish Get-Up",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 4,
+    "exercise_id": "march_in_place_strap",
+    "exercise_name": "March in Place With Strap",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 4,
+    "exercise_id": "y_t_ws",
+    "exercise_name": "Y T Ws",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 4,
+    "exercise_id": "hamstring_slider_curl",
+    "exercise_name": "Hamstring Curl (Slider)",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 4,
+    "exercise_id": "side_plank_row",
+    "exercise_name": "Side Plank Row",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 5,
+    "exercise_id": "arnold_press",
+    "exercise_name": "Arnold Press",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 5,
+    "exercise_id": "split_squat",
+    "exercise_name": "Split Squat",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 5,
+    "exercise_id": "floor_high_plank",
+    "exercise_name": "Floor High Plank",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 5,
+    "exercise_id": "upwards_row",
+    "exercise_name": "Upwards Row",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 5,
+    "exercise_id": "calf_raises",
+    "exercise_name": "Calf Raises",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 5,
+    "exercise_id": "swiss_ball_core_rotation",
+    "exercise_name": "Swiss Ball Core Rotation",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 5,
+    "exercise_id": "shoulder_rotation",
+    "exercise_name": "Floor Internal / External Rotation",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 5,
+    "exercise_id": "heel_walk",
+    "exercise_name": "Heel Walk",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 5,
+    "exercise_id": "hamstring_yoga_ball_curl",
+    "exercise_name": "Hamstring Curl (Yoga Ball)",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 11,
+    "week_start": "2026-05-04"
+  },
+  {
+    "day": 1,
+    "exercise_id": "shoulder_rotation",
+    "exercise_name": "Floor Internal / External Rotation",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 1,
+    "exercise_id": "reverse_lunge",
+    "exercise_name": "Reverse Lunge",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 1,
+    "exercise_id": "plank_yoga_ball",
+    "exercise_name": "Plank on Yoga Ball",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 1,
+    "exercise_id": "dumbbell_press",
+    "exercise_name": "Dumbbell Press",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 1,
+    "exercise_id": "calf_raises_single",
+    "exercise_name": "Single Leg Calf Raises",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 1,
+    "exercise_id": "renegade_row",
+    "exercise_name": "Renegade Row",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 2,
+    "exercise_id": "arm_pt",
+    "exercise_name": "Arm PT",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 2,
+    "exercise_id": "step_up",
+    "exercise_name": "Step-Up",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 2,
+    "exercise_id": "side_plank_row",
+    "exercise_name": "Side Plank Row",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 2,
+    "exercise_id": "butterfly_press",
+    "exercise_name": "Butterfly Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 2,
+    "exercise_id": "calf_raises",
+    "exercise_name": "Calf Raises",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 2,
+    "exercise_id": "cossack_squat",
+    "exercise_name": "Cossack Squat",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 2,
+    "exercise_id": "standing_row",
+    "exercise_name": "Standing Row",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 2,
+    "exercise_id": "hamstring_slider_curl",
+    "exercise_name": "Hamstring Curl (Slider)",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 2,
+    "exercise_id": "russian_twist",
+    "exercise_name": "Russian Twist",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 3,
+    "exercise_id": "upwards_row",
+    "exercise_name": "Upwards Row",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 3,
+    "exercise_id": "box_squat",
+    "exercise_name": "Box Squat",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 3,
+    "exercise_id": "yoga_ball_plank_back_forth",
+    "exercise_name": "Yoga Ball Plank Back and Forth",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 3,
+    "exercise_id": "arnold_press",
+    "exercise_name": "Arnold Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 3,
+    "exercise_id": "clam_walk_strap",
+    "exercise_name": "Clam Walk With Strap",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 3,
+    "exercise_id": "pallof_press",
+    "exercise_name": "Pallof Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 3,
+    "exercise_id": "lateral_raises",
+    "exercise_name": "Lateral Raises",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 3,
+    "exercise_id": "single_leg_3_cone_touch",
+    "exercise_name": "Single Leg 3 Cone Touch",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 3,
+    "exercise_id": "weighted_side_bend",
+    "exercise_name": "Weighted Side Bend",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 4,
+    "exercise_id": "rear_delt_fly",
+    "exercise_name": "Rear Delt Fly",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 4,
+    "exercise_id": "reverse_lunge",
+    "exercise_name": "Reverse Lunge",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 4,
+    "exercise_id": "floor_low_plank",
+    "exercise_name": "Floor Low Plank",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 4,
+    "exercise_id": "frontline_pow_raise",
+    "exercise_name": "Frontline POW Raise",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 4,
+    "exercise_id": "turkish_get_up",
+    "exercise_name": "Turkish Get-Up",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 4,
+    "exercise_id": "swiss_ball_core_rotation",
+    "exercise_name": "Swiss Ball Core Rotation",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 4,
+    "exercise_id": "dumbbell_press",
+    "exercise_name": "Dumbbell Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 4,
+    "exercise_id": "hamstring_slider_curl_Single_Leg",
+    "exercise_name": "Single Leg Hamstring Curl (Slider)",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 4,
+    "exercise_id": "side_plank_row",
+    "exercise_name": "Side Plank Row",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 5,
+    "exercise_id": "elbow_out_row",
+    "exercise_name": "Elbow Out Row",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 5,
+    "exercise_id": "curtsy_squat",
+    "exercise_name": "Curtsy Squat",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 5,
+    "exercise_id": "side_lunge",
+    "exercise_name": "Side Lunge",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 5,
+    "exercise_id": "butterfly_press",
+    "exercise_name": "Butterfly Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 5,
+    "exercise_id": "hip_thruster",
+    "exercise_name": "Hip Thruster",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 5,
+    "exercise_id": "russian_twist",
+    "exercise_name": "Russian Twist",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 5,
+    "exercise_id": "shrugs",
+    "exercise_name": "Shrugs",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 5,
+    "exercise_id": "heel_walk",
+    "exercise_name": "Heel Walk",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 5,
+    "exercise_id": "weighted_side_bend",
+    "exercise_name": "Weighted Side Bend",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 12,
+    "week_start": "2026-05-11"
+  },
+  {
+    "day": 1,
+    "exercise_id": "shoulder_rotation",
+    "exercise_name": "Floor Internal / External Rotation",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 1,
+    "exercise_id": "hip_thruster",
+    "exercise_name": "Hip Thruster",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 1,
+    "exercise_id": "push_up",
+    "exercise_name": "Push Up",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 1,
+    "exercise_id": "wide_upwards_row",
+    "exercise_name": "Wide Upwards Row",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 1,
+    "exercise_id": "forward_lunge",
+    "exercise_name": "Forward Lunge",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 1,
+    "exercise_id": "renegade_row",
+    "exercise_name": "Renegade Row",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 1,
+    "exercise_id": "rear_delt_fly",
+    "exercise_name": "Rear Delt Fly",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 1,
+    "exercise_id": "single_leg_3_cone_touch",
+    "exercise_name": "Single Leg 3 Cone Touch",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 1,
+    "exercise_id": "clam_walk_strap",
+    "exercise_name": "Clam Walk With Strap",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 2,
+    "exercise_id": "dumbbell_press",
+    "exercise_name": "Dumbbell Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 2,
+    "exercise_id": "bridge_toe_taps",
+    "exercise_name": "Bridge Toe Taps",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 2,
+    "exercise_id": "russian_twist",
+    "exercise_name": "Russian Twist",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 2,
+    "exercise_id": "y_t_ws",
+    "exercise_name": "Y T Ws",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 2,
+    "exercise_id": "box_pistol_squat",
+    "exercise_name": "Box Pistol Squat",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 2,
+    "exercise_id": "side_plank",
+    "exercise_name": "Side Plank",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 2,
+    "exercise_id": "upwards_row",
+    "exercise_name": "Upwards Row",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 2,
+    "exercise_id": "heel_walk",
+    "exercise_name": "Heel Walk",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 2,
+    "exercise_id": "hamstring_yoga_ball_curl",
+    "exercise_name": "Hamstring Curl (Yoga Ball)",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 3,
+    "exercise_id": "standing_row",
+    "exercise_name": "Standing Row",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 3,
+    "exercise_id": "split_squat",
+    "exercise_name": "Split Squat",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 3,
+    "exercise_id": "floor_high_plank",
+    "exercise_name": "Floor High Plank",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 3,
+    "exercise_id": "frontline_pow_raise",
+    "exercise_name": "Frontline POW Raise",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 3,
+    "exercise_id": "side_lunge",
+    "exercise_name": "Side Lunge",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 3,
+    "exercise_id": "russian_twist",
+    "exercise_name": "Russian Twist",
+    "set_type": "ladder",
+    "completed_rounds": 7,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 4,
+    "exercise_id": "tricep_press",
+    "exercise_name": "Tricep Press",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 4,
+    "exercise_id": "jump_squat",
+    "exercise_name": "Jump Squat",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 4,
+    "exercise_id": "copenhagen_plank",
+    "exercise_name": "Copenhagen Plank",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 4,
+    "exercise_id": "lateral_raises",
+    "exercise_name": "Lateral Raises",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 4,
+    "exercise_id": "heel_walk",
+    "exercise_name": "Heel Walk",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 4,
+    "exercise_id": "cossack_squat",
+    "exercise_name": "Cossack Squat",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 4,
+    "exercise_id": "wide_upwards_row",
+    "exercise_name": "Wide Upwards Row",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 4,
+    "exercise_id": "turkish_get_up",
+    "exercise_name": "Turkish Get-Up",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 4,
+    "exercise_id": "pallof_press",
+    "exercise_name": "Pallof Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 5,
+    "exercise_id": "dumbbell_press",
+    "exercise_name": "Dumbbell Press",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 5,
+    "exercise_id": "box_pistol_squat",
+    "exercise_name": "Box Pistol Squat",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 5,
+    "exercise_id": "march_in_place_strap",
+    "exercise_name": "March in Place With Strap",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 5,
+    "exercise_id": "narrow_upwards_row",
+    "exercise_name": "Narrow Upwards Row",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 5,
+    "exercise_id": "hip_thruster",
+    "exercise_name": "Hip Thruster",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 5,
+    "exercise_id": "hamstring_slider_curl_Single_Leg",
+    "exercise_name": "Single Leg Hamstring Curl (Slider)",
+    "set_type": "amsap",
+    "completed_rounds": 10,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 5,
+    "exercise_id": "shrugs",
+    "exercise_name": "Shrugs",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 5,
+    "exercise_id": "romanian_deadlift",
+    "exercise_name": "Romanian Deadlift",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  },
+  {
+    "day": 5,
+    "exercise_id": "swiss_ball_core_rotation",
+    "exercise_name": "Swiss Ball Core Rotation",
+    "set_type": "regular",
+    "completed_rounds": 5,
+    "week_number": 13,
+    "week_start": "2026-05-18"
+  }
+]
